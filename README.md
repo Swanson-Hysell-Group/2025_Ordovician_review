@@ -10,7 +10,7 @@ Bergmann, K.D.<sup>1</sup><sup>\*</sup>, Macdonald, F.A.<sup>2</sup><sup>\*</sup
 
 ## Contents
 
-This repository contains Jupyter notebooks that were used to conduct data analysis and develop data visualizations. These notebooks are linked to below. Each notebook used a Python 3.10 kernel with packages as listed in the [pygplates_py310.yml](code/pygplates_py310.yml) file.
+This repository contains Jupyter notebooks that were used to conduct data analysis and develop data visualizations. These notebooks are linked to below. Each notebook used a Python 3.10 kernel with packages as listed in the [pygplates_py310.yml](code/pygplates_py310.yml) file. The code in the paleogeography notebooks also relies on pygplates which is imported from a local user specified path (`pygplates_0.36.0_py39_Darwin-x86_64` was used).
 
 ### [paleogeography_Gondwana.ipynb](code/paleogeography_Gondwana.ipynb)
 
