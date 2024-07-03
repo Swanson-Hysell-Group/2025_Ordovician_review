@@ -1,0 +1,595 @@
+﻿Q,a95,Com,Formation,Lat,Lon,CLat,CLon,RLat,RLon,EULER,Age,GPDB RefNo/Reference,Block
+5,4.8,,USGS SW North America composite,-86.3,5.7,,,,,,0.5,Mankinen (2008),North America (101)
+5,9.1,,Michoacan Guanajuato volcanic field,-86.4,8.4,,,-86.4,9.2,(79.2/23/.2),0.8,Maciel Peña et al. (2009),North America (101)
+5,7.1,,Tequila volcanic fields,-85.3,265.9,,,-85.3,-94.1,(79.9/22.7/.3),1,Ceja et al. (2006),North America (101)
+5,8.7,,Meseta Lago Buenos Aires,-88.4,225.5,,,-88.4,-135.7,(79.9/22.7/.3),1,Brown et al. (2004),North America (101)
+5,4.3,,Trans Mexican Volcanic Belt,-88.9,285,,,-88.9,-75.1,(79.9/22.7/.3),1,"Ruiz-Martínez et al., 2010",North America (101)
+3,4.9,,Katherine Creek sediments,-77.9,303.7,-80,3.5,-80,4.2,(80.8/22.8/.4),1.5,"3060, T",North America (101)
+3,7,,Banks Island deposits,-85.7,122.7,-81.2,73.9,-81.1,74.5,(80.8/22.8/.4),1.5,"3206, T",North America (101)
+5,5.7,,USGS SW North America composite,-84.5,241,,,-84.5,-119.1,(80.8/22.8/.4),1.5,Mankinen (2008),North America (101)
+5,6.2,,Trans-Mexican Volcanic Belt,-89.5,214.8,,,-89.5,-157.9,(80.8/22.9/.8),3,Mejia et al. (2005),North America (101)
+5,4.1,,Trans Mexican Volcanic Belt,-84.6,332.3,,,-84.8,-25.6,(80.9/22.8/1),4,Ruiz-Martínez et al. (2010),North America (101)
+5,6.7,,Eastern Alkaline Province,-87.9,275.9,,,-88,-84.4,(80.9/22.8/1),4,Goguitchaichvili et al. (2007),North America (101)
+5,5,,Snake River Plain,-85.5,197.4,,,-85.5,-163.9,(80.9/22.8/1.3),5,Tauxe et al. (2004),North America (101)
+5,5,,USGS SW North America composite,-85.3,262.1,,,-85.5,-97.9,(80.9/22.8/1.8),7,Mankinen (2008),North America (101)
+5,6.9,,Trans Mexican Volcanic Belt,-85.9,357.7,,,-86,3.9,(80.9/22.8/2),8,Ruiz-Martínez et al. (2010),North America (101)
+5,7.8,,USGS SW North America composite,-82.9,309.1,,,-83.3,-47.3,(80.9/22.9/2.6),10,Mankinen (2008),North America (101)
+3,12.9,,Hepburn's Mesa Formation,-81.1,225.3,-83.1,93.2,-82.4,98.8,(80.9/23.2/4.2),15.5,"2288, T",North America (101)
+5,3.7,,Stoddard Mountain laccolith,-82.9,346.2,,,-83.5,-1.3,(80.3/25.4/5.8),21,Petronis et al. (2004),North America (101)
+5,9.8,,Dinan Bay lavas,-82.7,301.7,,,-83.7,-51,(80.2/26/6),21.7,Irving et al. (2000),North America (101)
+4,6.7,,Younger plutons,-87.1,189.5,,,-86.7,177.4,(80/26.6/6.2),22.5,"1402, T",North America (101)
+3,8.4,,Lake City Caldera,-76.4,30.3,,,-76.2,41,(79.9/26.9/6.3),23,"1300, T",North America (101)
+4,5.2,,Latir volcanics,-80.9,331.2,,,-81.8,-17.8,(79.8/27.3/6.4),23.5,"1299, T",North America (101)
+4,6.8,,Conejos and Hinsdale Formation,-79.7,342.8,,,-80.5,-4.3,(79.3/27.5/7.1),26,"3130, T",North America (101)
+4,5.4,,"Latir extrusives, sediments",-80.2,315.4,,,-81.4,-32.9,(78.8/22.7/7.5),27,"1299, T",North America (101)
+3,5,,Mongollon–Datil volcanics,-82.8,316.2,,,-84.2,-24,(77.4/12.5/8.6),30,"2631, T",North America (101)
+4,4.4,,Mongollon–Datil volcanics,-81.9,323.6,,,-83.1,-16.9,(77.4/12.5/8.6),30,"1315, T",North America (101)
+6,6.2,,Tuzantlán–Copalillo basin,-80.6,22.1,,,-79.5,43.5,(76/6.1/9.7),33,Molina-Garza and Ortega-Rivera (2006),North America (101)
+4,4.3,,Mariscal Mountain Gabbro,-79.8,5.9,,,-78.9,31.9,(74.9/1.4/11.4),37,"2943, T",North America (101)
+5,7,,Ramsay Island lavas,-78.2,297.5,,,-80.7,-40.3,(74.5/.1/12),38.5,Irving et al. (2000),North America (101)
+3,2.4,,Mistastin Lake Impact,-85.2,296.6,,,-87.2,-9.1,(74.5/− 1.1/12.6),40,"562, T",North America (101)
+6,3,,Beaver River alkalic complex,-79.2,326.4,,,-80.1,-1.7,(74.4/− 2.5/13.4),42,Symons et al. (2003),North America (101)
+5,7.7,,East Fork Washakia Basin,-83.7,323.7,-76.7,50.4,-73.2,70.3,(74.3/− 3.7/14.2),44,"1632, T",North America (101)
+5,8,,Absaroka flows,-82.7,333.6,,,-82.6,19.8,(74.2/− 4.9/15),46,"1117, T",North America (101)
+4,9.6,,Rattlesnake Hills volcanics,-79.3,324.3,,,-80.2,0.8,(74.2/− 4.9/15),46,"1712, T",North America (101)
+4,10.1,,Monterey intrusives,-85.2,62,,,-81.2,84,(74.5/− 4.8/15.3),47,"1865, T",North America (101)
+6,5.6,,Bitterroot Dome dike swarm,-72,343.4,,,-71.9,10.7,(74.5/− 4.8/15.3),47,"2560, T",North America (101)
+5,4,,Robinson Anticline intrusives,-77.1,325.8,,,-78.1,-0.9,(75.9/− 3.5/16.2),50,"1348, T",North America (101)
+6,6.2,,Absorako volcanics,-83.1,326.3,,,-83.5,15.9,(75.9/− 3.5/16.2),50,Harlan and Morgan (2010),North America (101)
+6,4.9,,Wasatch and Green River Formation,-77.6,309.1,-78.3,22.7,-75.8,51.7,(76.5/− 2.8/16.5),51,"3150, T",North America (101)
+6,2.6,,Combined Eocene intrusives,-82.7,347.2,,,-81.8,31.2,(76.5/− 2.8/16.5),51,"1270, T",North America (101)
+6,4.4,,Bighorn Basin,-81.4,347.7,-73.9,48.8,-71.3,71.7,(79.8/4.1/17.6),55,Clyde et al. (2007),North America (101)
+5,14,,Rhyolite intrusion and contact,-68.1,9.4,,,-67.3,34.2,(80.9/6.2/18.2),57,"504, T",North America (101)
+6,3,,Nacimiento formation,-75.9,326.4,-74.9,24.7,-73.4,52,(81.8/4.8/19.4),61,"1033, T",North America (101)
+4,1.1,,Gringo Gulch volcanics,-77.1,21.3,,,-75.6,50.6,(82.2/4/20),63,"1710, T",North America (101)
+4,6.6,,"Edmonton Group, Alberta",-72,5.3,-68,38.1,-66.1,62.3,(82.2/4/20),63,"1914, T",North America (101)
+6,3.7,,Combined Palaeocene intrusions,-81.9,350.6,,,-81.7,29.2,(82.2/4/20),63,"1270, T",North America (101)
+5,3.9,,Alkalic intrusives,-80.5,359.4,,,-79.9,34.6,(82.4/3.6/20.4),64,"1711, T",North America (101)
+5,5.8,#,Tombstone volcanics and intrusions,-71.8,28.3,,,-69.2,56.8,(81.4/− 8.2/22.7),71,"2806, T",North America (101)
+5,6.2,#,Roskruge volcanics,-69.8,354.9,,,-68.6,26.4,(81.3/− 9.2/23.1),72,"1240, T",North America (101)
+6,4.6,,Adel Mountain volcanics,-83.7,15.4,,,-80.7,58.1,(80.7/− 12.3/24.3),74.5,"2370, T",North America (101)
+6,9,,Doherty Mountain sills,-80.8,358.1,,,-78,43.4,(79.5/− 15.9/25.7),77,Harlan et al. (2008),North America (101)
+5,9.6,,Niobrara Formation,-59.8,17.7,-57.8,41.8,-52.8,70.3,(78.7/− 18.1/26.9),79,Shive and Frerichs (1974),North America (101)
+6,6.2,,Maudlow Formation welded tuffs,-70.5,27.6,,,-65.5,60.8,(78.2/− 18.8/27.5),80,"2397, T",North America (101)
+7,6.6,,Elkhorn Mountains,-81.8,7.8,,,-77.2,55.4,(77.8/− 19.4/28.1),81,"2382, T",North America (101)
+5,4.4,,Magnet Cove and other intrusions,-73.6,11.1,,,-61.2,65.2,(69.4/− 23.5/40.5),100,"1322, T",North America (101)
+5,8.3,,Cuttingsville,-72.4,20.7,,,-59.3,70,(69.4/− 23.5/40.5),100,"3087, T",North America (101)
+5,4,,Randall Mountain,-76.4,319.4,,,-69.4,45.2,(68.8/− 23.1/42.6),103,"3087, T",North America (101)
+5,4.4,,Little Rattlesnake Complex,-71.5,2.4,,,-56,67.6,(67.3/− 22/48.2),111,"3087, T",North America (101)
+5,6.5,,Pleasant Mountain,-77.4,5.9,,,-60.7,74.5,(67.2/− 21.8/48.9),112,"3087, T",North America (101)
+5,5.6,,Burnt Meadow Mountains,-75.7,29.1,,,-57.1,84.1,(67/− 21.7/49.6),113,"3087, T",North America (101)
+5,3.6,,Alfred Complex,-74.2,30.3,,,-53.1,88.2,(66/− 20.6/54.2),120,"3036, T",North America (101)
+5,5.3,,Cape Neddick,-74.8,354.8,,,-56.5,73.9,(65.8/− 20.2/54.8),121,"3036, T",North America (101)
+5,4.6,,Tatnic Complex,-65.9,27.8,,,-44.4,86.2,(65.7/− 19.8/55.3),122,"3036, T",North America (101)
+6,2.4,,Monteregian Hills intrusives,-72,11.2,,,-51.7,79.7,(65.7/− 19.8/55.3),122,"1853, T",North America (101)
+5,3.3,,White Mountains igneous complex,-71.3,7.5,,,-51.5,77.6,(65.7/− 19.8/55.3),122,"2644, T",North America (101)
+5,7.5,,Lebanon diorite,-71,16.9,,,-49.4,83.7,(65.4/− 18.9/56.8),125,"3036, T",North America (101)
+5,3.6,,Notre Dame Bay dikes,-67.2,30.8,,,-43.6,91.6,(64.9/− 17.7/58.7),129,"1854, T",North America (101)
+7,2.6,,Kimberlite dikes,-58,23.1,,,-33.4,89.2,(64.9/− 16.7/63.2),144,"2717, T",North America (101)
+6,4.1,#,"Morrison Formation, Brushy Basin Member",-64.2,338.8,-65.5,12.5,-41.3,86.4,(64.8/− 16.8/64.4),148,"2870, T",North America (101)
+5,3.6,#,Upper Morrison Formation,-63.4,344.8,-64,17.5,-39.3,89.3,(65.1/− 16.1/64.9),150,"787, T",North America (101)
+6,7,#,Canelo Hills volcanics,-58.7,315.1,,,-49.8,50.8,(65.3/− 15.7/65.2),151,"1256, T",North America (101)
+5,5.3,#,Lower Morrison Formation,-57.4,327.5,-62.5,351,-42.6,76.4,(65.8/− 14.2/66.8),156,"787, T",North America (101)
+6,6,#,"Summerville Formation, Trujillo",-56.8,328.1,-58.1,350.6,-37.8,76.3,(65.8/− 13.5/69.6),163,Steiner (2003),North America (101)
+6,7.4,#,Summerville Formation,-52.6,318.2,-58.6,334.6,-42,69.4,(65.9/− 13/71.5),168,"2419, T",North America (101)
+5,4.3,#,Summerville sandstone,-64,299,-71.4,321.9,-54.9,77,(65.9/− 13/71.5),168,"1121, T",North America (101)
+4,7.4,,Moat volcanics,-78.7,270.3,,,-68.5,87.8,(65.9/− 12.9/71.9),169,Van Fossen and Kent (1990),North America (101)
+5,7.8,#,Corral Canyon rocks,-58,303.8,,,-51.9,53,(65.6/− 12.9/72.9),172,"1294, T",North America (101)
+4,1.4,,Newark volcanics II,-63.2,283.2,,,-61.7,54.7,(64.8/− 13.4/75),180,"1702, T",North America (101)
+3,1,,Anticosti dikes,-75.7,264.7,,,-67.6,85,(64.4/− 13.6/75.7),183,Larochelle (1971),North America (101)
+6,3.3,#,Kayenta Formation,-58.8,256.4,-62,257.2,-72,47.8,(64.1/− 13.8/76.5),186,"2380, T",North America (101)
+5,7,#,Kayenta Formation,-61.3,264.8,-67.8,268.3,-67.4,64.9,(64.1/− 13.8/76.5),186,Steiner and Helsley (1974),North America (101)
+4,9.8,#,Kayenta Formation,-58.7,277.8,-64.4,283,-61,59.4,(64.1/− 13.8/76.5),186,Johnson and Nairn (1972),North America (101)
+3,7.2,#,Sil Nakya Formation,-73.1,275.4,,,-64.1,78.6,(63.8/− 14/77.3),189,"T, Kluger-Cohen et al. (1986)",North America (101)
+5,3.1,,Combined dikes,-72.8,268.1,,,-66.1,79.2,(63.7/− 14/77.6),190,"1932, T",North America (101)
+5,8.9,,Piedmont dikes,-66,266,,,-66.7,63.8,(63.3/− 14.2/78.6),194,"1796, T",North America (101)
+4,2.3,,Newark volcanics I,-63,263.1,,,-67.6,56.7,(63.2/− 14.2/79),197,"1702, T",North America (101)
+4,11.1,,Connecticut Valley volcanics,-65.5,267.5,,,-65.9,63.2,(63.2/− 14.2/79),197,"477, T",North America (101)
+6,2.8,"#,I",Moenave Formation,-62.5,251,,,-73.2,55.4,(63.2/− 14.2/79),197,Donohoo-Hurley et al. (2010),North America (101)
+5,4,,Hartford Newark basalts and volcanics,-68,268.5,,,-65.4,69.2,(63.2/− 14.2/79),197,"2278, T",North America (101)
+5,6.2,,Watchung basalts,-63.6,268.7,,,-65.2,58.6,(63.2/− 14.2/79),197,"1339, T",North America (101)
+5,6,,Hettangian Newark red beds,-55.6,274.6,-59.8,273.3,-62.2,51.5,(63.2/− 14.2/79.1),198,"2312, T",North America (101)
+5,7.9,,Piedmont dikes,-61.5,234,,,-81,61.6,(63.2/− 14.2/79.2),199,"1809, T",North America (101)
+6,10.7,,North Mountain basalt,-66.4,252,,,-71.9,68.2,(63.2/− 14.1/79.2),200,"1932, T",North America (101)
+7,3.2,I,Hartford basin,-66.6,268.2,,,-65.5,66.3,(63.2/− 14.1/79.3),201,Kent and Olsen (2008),North America (101)
+6,5,I,Newark Martinsville core,-67.8,275.8,,,-62.5,69.5,(63.2/− 14/79.5),204,Kent and Tauxe (2005),North America (101)
+5,8,,"Chinle Group, Redonda Formation",-58.5,256.9,-61.2,257.1,-70.3,51.8,(63.2/− 14/79.5),204,"2979, T",North America (101)
+6,10.7,#,Chinle Formation,-58.7,250.9,-62.8,251.2,-73,57.3,(63.2/− 14/79.5),204,"2800, T",North America (101)
+6,4.2,,"Chinle Formation, Redonda Member",-57.8,259.3,-59.6,259.5,-68.9,47.8,(63.2/− 14/79.5),204,"152, T",North America (101)
+6,6.5,I,Newark Martinsville core,-64.9,276.6,,,-61.9,63.3,(63.2/− 14/79.5),204,Tan et al. (2007),North America (101)
+6,2.5,I,Newark Weston core,-58.1,271.8,,,-62.3,48.4,(63.2/− 13.9/79.7),207,Tan et al. (2007),North America (101)
+6,5,I,Newark Westonville,-66.9,267.2,,,-65.8,67.6,(63.2/− 13.9/79.7),207,Kent and Tauxe (2005),North America (101)
+6,4.7,,"Passaic Formation, baked sediments",-65.5,255.1,,,-70.7,65.7,(63.2/− 13.9/79.9),211,"2791, T",North America (101)
+7,5.6,,"Passaic Formation, C component",-55.6,274.6,-59.9,273.3,-62.1,52.8,(63.2/− 13.9/79.9),211,"2312, T",North America (101)
+6,3.4,#,Chinle Formation,-56.6,255.9,-58.6,256.2,-70.3,45,(63.2/− 13.9/79.9),211,"2380, T",North America (101)
+6,4,I,Newark Somerset core,-61.7,274.7,,,-61.9,57,(63.2/− 13.9/79.9),211,Kent and Tauxe (2005),North America (101)
+5,3,,Newark Basin both polarities,-57.6,269.6,-63.3,266.9,-65.7,59,(63.2/− 13.9/79.9),211,"1339, T",North America (101)
+4,5.2,,Taylor Mountain batholith,-61.4,282.2,,,-58.4,58.5,(63.2/− 13.9/79.9),212,Symons et al. (2009),North America (101)
+6,3.1,I,Newark Rutgers core,-60.1,277.1,,,-60.3,54.5,(63.2/− 13.9/79.9),214,Kent and Tauxe (2005),North America (101)
+4,7,,"Manicouagan Stucture, Quebec",-60.1,271.8,,,-62.9,52.7,(63.2/− 13.9/79.9),215,"434, T",North America (101)
+3,10,,"Manicouagan Stucture, Quebec",-59,267.6,,,-64.6,49,(63.2/− 13.9/79.9),215,"443, T",North America (101)
+3,14,,"Popo Agie Formation, Chugwater",-56.1,276,-62.4,280.5,-59.5,59.9,(63.2/− 13.9/79.9),215,"1134, T",North America (101)
+7,7.8,,Ankareh Formation,-50.5,267.6,-53.4,268.7,-62.1,37.9,(63.2/− 13.9/79.9),215,Weil et al. (2010),North America (101)
+6,5.6,,"Chinle Formation, Bull Canyon Member",-57.4,267.7,-59.3,268.4,-64.3,50,(63.2/− 13.9/79.9),216,"2380, T",North America (101)
+6,3.2,I,Newark Titusville core,-59.9,279.4,,,-59.2,54.9,(63.2/− 13.9/79.9),217,Kent and Tauxe (2005),North America (101)
+6,5.1,#,"Chinle, Sangre de Cristo",-52.9,282,-53.5,282.5,-54.9,45.6,(63.2/− 13.9/79.9),218,"2979, T",North America (101)
+6,7.7,,"Dockum Group, Trujillo and Tecovas Formations",-56.4,276.8,-58,277.6,-59.4,50.7,(63.2/− 13.9/79.9),218,"2944, T",North America (101)
+7,5,#,"Shinarump Member, Chinle Formation",-59.6,277.5,-63.5,280.6,-59.7,61.9,(63.2/− 13.9/79.9),220,"2489, T",North America (101)
+6,5,,"Newark Basin, Lower redbeds",-53.4,281.7,-55.9,281.5,-56.6,48.9,(63.2/− 13.9/79.9),220,"2331, T",North America (101)
+6,2,I,Dan River–Danville Basin,-58.5,279.5,,,-58.6,52.4,(63.2/− 13.9/79.9),221,Kent and Tauxe (2005),North America (101)
+5,5,I,Newark Nursery core,-60.5,281.6,,,-58.4,56.7,(63.2/− 13.9/79.9),221,Kent and Tauxe (2005),North America (101)
+4,3.9,,Abbott Pluton,-48.3,272.3,,,-57.6,31.5,(63.2/− 13.9/79.9),221,"1831, T",North America (101)
+6,5,,Upper Red Peak Formation,-49.1,285.1,-52.7,287.8,-51.7,47.3,(63.2/− 13.9/79.9),225,"1134, T",North America (101)
+6,4,I,Newark Princeton core,-54.1,285.2,,,-53.8,47.9,(63.2/− 13.9/79.9),227,Kent and Tauxe (2005),North America (101)
+6,3.2,,Agamenticus Pluton,-48.4,278.5,,,-54.2,35.8,(63.2/− 13.9/79.9),228,"1831, T",North America (101)
+5,2.5,#,Upper Moenkopi drillcore,-54.1,288.3,-58.6,293.1,-52.3,58,(63.2/− 13.9/79.9),230,"160, T",North America (101)
+6,4,,Chugwater Formation,-45.2,295.4,-49.1,299,-44,49.4,(63.2/− 13.9/79.9),230,"1266, T",North America (101)
+5,3.1,#,Upper Moenkopi Formation,-52.5,290.7,-56.6,295,-50.4,56.1,(63.2/− 13.9/79.9),230,"159, T",North America (101)
+6,4.5,#,Moenkopi Formation (upper),-56.5,283.2,-59.8,286.6,-55.8,57.3,(63.2/− 13.9/79.9),230,"2808, T",North America (101)
+6,3.3,,Chugwater Formation,-46.1,293.6,-49.8,296.9,-45.5,48.9,(63.2/− 13.9/79.9),230,"1271, T",North America (101)
+7,3.4,#,Moenkopi Formation,-55.5,287.9,-58.2,290.7,-53.2,56.5,(63.2/− 13.9/79.9),234,"2489, T",North America (101)
+7,5,#,Moenkopi Formation (Gray Mountain),-54.6,284.5,-57.8,287.8,-54.4,54.5,(63.2/− 13.9/79.9),234,"1221, T",North America (101)
+6,4.9,#,"Moenkopi Formation, Anton Chico Member",-44.7,301.4,-44.9,301.7,-39.8,46.9,(63.2/− 13.9/79.9),234,"2979, T",North America (101)
+5,4.9,#,Moenkopi Formation,-55.6,285.8,-60.5,290.9,-54.2,59.9,(63.2/− 13.9/79.9),234,"2489, T",North America (101)
+4,5.3,#,Moenkopi Formation,-41.1,305.6,-40.8,305.2,-35,45.7,(63.2/− 13.9/79.9),234,"2632, T",North America (101)
+5,7,,Lower Red Peak Formation,-46.1,301,-50.6,306.1,-41.5,55.1,(63.2/− 13.9/79.9),235,"1134, T",North America (101)
+6,7.2,,Lower Fundy Group,-44.3,271.6,-45.5,271.1,-56.6,26.5,(63.2/− 13.9/79.9),246,Symons et al. (1989),North America (101)
+6,5,,Dewey Lake Formation,-51,306.5,-53.8,310.3,-41.8,60.5,(63.2/− 13.9/79.9),250,"2303, T",North America (101)
+4,8,#,Bernal Formation,-49.9,298.1,-51.6,300,-45.1,52.6,(63.2/− 13.9/79.9),255,"2489, T",North America (101)
+4,15,,Ochoan red beds,-54.8,299.3,-57.3,302.2,-47.6,60.4,(63.2/− 13.9/79.9),258,"688, T",North America (101)
+5,5,,Guadalupian red beds,-51.5,306.7,-54.8,311.6,-41.9,62.2,(63.2/− 13.9/79.9),263,"688, T",North America (101)
+5,3.8,,Intrusions Southern Illinois,-56.3,302.9,,,-46.6,59.5,(63.2/− 13.9/79.9),270,"Domeier et al., 2011a",North America (101)
+4,3.8,,Downey Bluff sill,-53,308.7,,,-42,58.9,(63.2/− 13.9/79.9),272,Reynolds et al. (1997),North America (101)
+4,8.6,,Hicks Dome breccia,-54.8,292.1,,,-50.8,52.3,(63.2/− 13.9/79.9),272,Reynolds et al. (1997),North America (101)
+3,10,#,Toroweap Formation,-51.9,303,-56.5,311,-43.2,63.6,(63.2/− 13.9/79.9),277,"688, T",North America (101)
+3,5,,Leonardian subset,-51.7,302.1,-53.7,304,-44.5,57.1,(63.2/− 13.9/79.9),277,"688, T",North America (101)
+7,3.6,,Artinskian Pictou red beds,-42.1,306.5,-41.4,306.4,-34.9,46.9,(63.2/− 13.9/79.9),280,"2281, T",North America (101)
+5,16.3,,Churchland pluton,-33.5,306.3,,,-29,40.8,(63.2/− 13.9/79.9),282,"1264, T",North America (101)
+4,13.1,#,Fountain and Lykins Formations,-44.6,305.3,-47.8,308.8,-38.3,54,(63.2/− 13.9/79.9),283,504,North America (101)
+5,2.1,#,Abo Formation,-46.8,304,-48.3,305.9,-40.1,52.7,(63.2/− 13.9/79.9),285,"1311, T",North America (101)
+3,10.2,,Piedmont Mafic intrusions,-38.9,300.8,,,-35.9,41,(63.2/− 13.9/79.9),289,1527,North America (101)
+5,1.5,,Upper Casper Formation,-50.5,303,-56.2,310.3,-43.4,63,(63.2/− 13.9/79.9),291,"1455, T",North America (101)
+4,5,#,Elephant Canyon Formation,-37.5,296.6,-35.8,295.2,-36.7,34.4,(63.2/− 13.9/79.9),292,"671, T",North America (101)
+5,7.1,#,"Cutler Formation, Lisbon Valley",-40.1,307.7,-42.1,310.1,-33.5,50,(63.2/− 13.9/79.9),292,"1341, T",North America (101)
+5,2,#,Ingelside Formation,-43.1,307.9,-46.5,311.7,-36,54.6,(63.2/− 13.9/79.9),292,"1142, T",North America (101)
+4,2,#,Cutler Formation,-41.6,300.4,-42.6,301.5,-38.3,44.7,(63.2/− 13.9/79.9),292,"671, T",North America (101)
+4,2.8,#,Minturn and Maroon Formations,-40.1,300.5,-40.3,300.8,-37,42.2,(63.2/− 13.9/79.9),298,"1685, T",North America (101)
+4,12.8,#,Upper Maroon Formation,-55.3,279.8,-60.6,285.1,-56.8,58,(63.2/− 13.9/79.9),299,"504, T",North America (101)
+5,3.9,,Dunkard Formation,-44.1,301.5,-41.5,300.4,-38,43,(63.2/− 13.9/79.9),300,"302, T",North America (101)
+5,2.1,,Laborcita Formation,-42.1,312.1,-43,313.4,-32.7,52.9,(63.2/− 13.9/79.9),301,"1311, T",North America (101)
+5,3.4,#,Wescogame Formation,-44.1,303.9,-46.3,306.8,-38.2,51.4,(63.2/− 13.9/79.9),301,"1311, T",North America (101)
+6,3.1,I,Glenshaw Formation,-28.6,299.9,,,-28.6,32.4,(63.2/− 13.9/79.9),303,Kodama (2009),North America (101)
+5,1.8,,Lower Casper Formation,-45.7,308.6,-50.5,314.6,-37.6,59.8,(63.2/− 13.9/79.9),303,"1455, T",North America (101)
+5,6,,Riversdale Group,-36,302,-30.2,301.5,-29,34.8,(63.2/− 13.9/79.9),310,"1110, T",North America (101)
+7,7.7,I,"Shepody Formation, Nova Scotia",-27.2,298.3,,,-28.4,30.2,(63.2/− 13.9/79.9),317,Bilardello and Kodama (2010a),North America (101)
+6,8.3,I,Mauch Chunk,-22.6,294.4,,,-26.9,23.8,(63.2/− 13.9/79.9),320,Bilardello and Kodama (2010a),North America (101)
+7,15.3,I,"Maringouin Formation, Nova Scotia",-27.9,297.2,,,-29.5,29.8,(63.2/− 13.9/79.9),322,Bilardello and Kodama (2010a),North America (101)
+4,6.5,,New Brunswick volcanics I and redbeds,-19.5,315.8,,,-12.6,39.2,(63.2/− 13.9/79.9),330,Seguin et al. (1985),North America (101)
+6,8,,Jeffreys Village Member,-27,311,-17.8,309.8,,,,333,"1534, T",North America (101)
+7,9,I⁎⁎,Deer Lake Formation,-18.6,304.2,,,,,,335,Bilardello and Kodama (2010b),North America (101)
+3,16,,Catskill Formation South,-27.4,303,-16.6,299.6,,,,370,1693,North America (101)
+4,9,,Andreas red beds,-13,285,1.5,284.8,,,,415,"1388, T96",North America (101)
+7,5.3,,Wabash Reef,-17,305,,,,,,420,"1277, T96",North America (101)
+6,5.8,,Rose Hill Formation,-19.1,308.3,,,,,,425,1218,North America (101)
+4,7.3,,Ringgold Gap sediments,-24,326.6,-16.9,321.7,,,,438,1689,North America (101)
+4,3.9,,Tablehead Group limestone Mean,-13.4,329.3,,,,,,470,"2257, 1931, T96 (recalculated)",North America (101)
+4,4.3,,St. George Group limestone,-17.5,332.4,,,,,,480,"1928, T96",North America (101)
+6,11.9,,Oneota Dolomite,-10.3,346.5,,,,,,490,"1283, T96",North America (101)
+5,8.5,,Moore Hollow sediments,0.6,343,3.1,338.9,,,,495,"2383, T96",North America (101)
+5,9.7,,Morgan Creek,-10.6,338,-8.4,334.6,,,,495,"2376, T96",North America (101)
+5,9,,Point Peak,-5.2,345.8,-4.7,345,,,,495,"801, T96",North America (101)
+5,7.1,,Taum Sauk limestone,3.4,355.1,,,,,,500,"1284, T96",North America (101)
+6,4.3,,Royer Dolomite,-12.6,337.3,,,,,,500,"2289, T96",North America (101)
+6,10,,Florida Mountains,5.4,348.7,,,,,,503,"2375, T96",North America (101)
+5,3.3,,Tapeats Sandstone,-0.6,341.1,-1.7,342.6,,,,508,"1044, T96",North America (101)
+5,6.2,,Mont Rigaud and Chatham–Grenville,11.9,4.5,,,,,,532,"McCausland et al., 2007",North America (101)
+6,7.4,,Talerua Member lavas,-76.3,21.5,,,-75,44.1,(72.8/9.1/11.2),39,Schmidt et al. (2005),Greenland (102)
+5,6.3,,"Nuussuaq lavas, Kanisut Member",-74.6,339.4,,,-77.6,11.6,(71.1/30.9/16),54,Riisager et al. (2003b),Greenland (102)
+4,6,,"Kangerdlugsuaq dykes, Irminger",-63,0,,,-64.6,25.6,(71.4/30.2/16.4),54.5,1604,Greenland (102)
+4,15,,Scoresby Sund lavas,-63,354,,,-65,19.8,(71.7/29.6/16.8),55,450,Greenland (102)
+3,4.2,,Skaergaard Intrusion,-61,345,,,-63.8,9.9,(72/29/17.2),55.5,1432,Greenland (102)
+4,8.9,,Kangerdlugssuaq Lavas,-63.4,5.1,,,-64.4,32,(72/29/17.2),55.5,1844,Greenland (102)
+6,3,,Jacobsen Fjord dykes,-68,358,,,-69.6,28,(72/30.1/17.5),59,1604,Greenland (102)
+5,9,,Jacobsen Fjord basalts,-56,3,,,-57.4,27.7,(71.9/30.3/17.5),59.5,1604,Greenland (102)
+6,3.2,,Disko Island lavas combined,-67.5,15,,,-67.6,44.9,(71.8/30.8/17.5),60.5,103,Greenland (102)
+5,6,,"Svartenhuk lavas, Vaigat Formation",-76.2,37.9,,,-73.9,73.2,(71.8/30.8/17.5),60.5,Riisager et al. (2003b),Greenland (102)
+5,6.9,,"Nuusuaq and Disko lavas, Vaigat Formation",-64.8,321.5,,,-69.4,-14.9,(71.8/30.8/17.5),60.5,Riisager et al. (2003a),Greenland (102)
+6,5,I,Gipsdalen and Fleming Fjord Formations,-52.7,278.7,,,-67.9,36.6,(60.5/1.4/69.3),209,Kent and Tauxe (2005),Greenland (102)
+3,11,,Kap Stanton Formation,1,302,,,,,,400,2301,Greenland (102)
+4,3.6,,West Eifel volcanics,-80.6,267.5,,,-80.6,-92.3,(18.3/− 47/.1),0.5,"1513, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.4,,East Eifel volcanics,-86.4,296.1,,,-86.4,-63.1,(18.3/− 47/.1),0.5,"1505, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,12.9,,Volcanics NW Germany,-84.3,357.7,,,-83.9,5.8,(18/− 26.7/1),8,"56, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1.8,,"Prado section, Teruel, Spain",-78.9,328.3,,,-78.9,-25.8,(17.9/− 26.4/1.1),9.5,Abels et al. (2009),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3.5,,"Cascante, Spain",-77.4,314.2,,,-77.7,-40.4,(18.5/− 26.3/1.2),10,Abdul Aziz et al. (2004),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.9,,Velay Oriental volcanics,-84.1,351.2,,,-83.6,3,(19.7/− 25.7/1.4),11.5,"3324, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1.5,,"Orera, Spain",-72.4,352,,,-71.9,-3.5,(19.6/− 25.5/1.5),12,Abdul Aziz et al. (2000),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.4,,Volcanics Germany,-77.8,310.8,,,-78.9,-36.2,(20/− 19.7/2.9),24,"3282, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,3.4,,Hocheifel volcanics,-80.8,2,,,-78,26.5,(26.8/− 19.5/5.5),34,"1506, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.8,,Lower Palaeogene mudstone,-63.7,358.6,-76.7,357.2,-72.2,30.6,(30.5/− 15.7/10.3),52,3534,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1.5,,"Lundy island dikes, Wales",-83,335,,,-78.2,41.3,(34.5/− 15.7/12.4),59,755,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3.5,,"Vaternish dyke swarm, Scotland",-76,340,,,-72.9,22.7,(34.5/− 15.7/12.4),59,"85, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1.2,,"Arran dikes, Scotland",-81.7,359.8,,,-74.9,46.3,(34.6/− 15.7/12.5),59.4,"1041, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.8,,Arran intrusives and extrusives,-80.2,339.6,,,-76,33.2,(34.6/− 15.7/12.5),59.5,6090,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,1.5,,"Sleat dikes, Scotland",-82.5,338,,,-77.6,40.6,(34.7/− 15.7/12.5),59.8,"1174, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.7,,"Sky lavas, Scotland",-77.7,325.4,,,-76.2,18,(34.7/− 15.7/12.5),59.8,S. Rousse (Pers. Comm. 2011),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,2.7,,"Ardnamurchan complex, Scotland",-77,355,,,-71.5,34.4,(34.8/− 15.7/12.6),60,"1377, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4.5,,Faeroe flood volcanics,-71.4,334.7,,,-69.8,11.3,(34.8/− 15.7/12.6),60.1,"3494, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,2.4,,"Rhum and Canna igneous, Scotland",-81,359,,,-74.3,44.8,(34.9/− 15.7/12.7),60.7,"1169, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4.7,,"Mull lavas, Scotland",-73.3,346.2,,,-69.5,23.1,(35/− 15.7/12.8),60.9,Ganerød et al. (2008),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4.7,,"Antrim Lava, Ireland",-78.9,347,,,-74,34.1,(35/− 15.7/12.8),61,Ganerød et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.7,,Muck and Eigg igneous,-74,351,,,-69.4,27.5,(35.1/− 15.7/12.8),61.2,"1204, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,3.4,,"Aix-en-Provence, France",-79.1,344.5,-84.9,222.9,-82.4,95.9,(35.8/− 16/14.6),68,Cojan and Moreau (2006),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+7,8,,"Aix-en-Provence sediments, France",-73,336,,,-69.8,21.1,(35.4/− 15.7/15.2),74,"2394, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3,,"Dagestan limstones, Caucasus",-74,341,,,-67.7,35.4,(37.5/− 14/19.5),86,"3037, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3,,"Dagestan limstones, Caucasus",-74,328,,,-70.4,28.7,(37.5/− 14/19.5),86,"3037, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,5,,"Munsterland Turonian, Germany",-68,329,,,-65.1,22.3,(39.2/− 13.6/21.8),89.5,"1507, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4,,Munster Basin limestone,-76,1,,,-62.9,54.7,(39.4/− 13.7/24.2),93,"1495, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,2.5,,Mongolia/Siberia Cretaceous Volcanics,-80.8,338.4,,,-63.2,70.6,(41.6/− 10.1/34.1),108,van Hinsbergen et al. (2008),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,2.9,,Berriasian limestones,-74,3,,,-48,82.4,(45.9/− 3.4/48.4),140,"1397, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6,,"Jura Blue limestone, Switzerland",-78,328,,,-56,87.9,(48.4/− 1.1/52.8),156.5,"1337, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,3.9,,Oxfordian sediments,-70,327,,,-54.5,74.3,(48.5/− 1/53),157,"616, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,7,,"Terres Noires, France",-78,310,,,-59.5,88.7,(48.6/−.9/53.4),158,"3156, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4,,"Subtatric Nappe sediments, Poland",-72,312,,,-59.3,77.2,(48.7/−.8/53.8),159,"1948, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,7.3,,"Limestones, Krakow–Czestochowa Upland",-72,330,,,-53.9,78.9,(48.7/−.8/53.8),160,"1948, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+7,6.3,,Jurassic sediments,-63,300,,,-62.2,62.5,(49.8/.3/57),168,"1514, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,6.8,,Scania basalts (179 ± 6 Ma),-69,283,,,-65.8,82.6,(49.4/.2/60.3),179,"2729, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,12,,"Thouars and Airvault Sections, France",-71,276,,,-65.6,90.9,(49.2/0/61.8),184,"1427, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.1,,Paris Basin drillcore,-66,295.2,,,-60.6,75.2,(49.1/−.1/62.3),186,3554,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,3,,Liassic sediments,-77,315,,,-52.1,94.8,(48.7/0/63.6),192,"1467, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,7.5,,"Kerforne dykes, France",-61,259,,,-76,88.7,(48.1/.7/63.1),198,"2743, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,9,,Hettangian–Sinemurian limestone,-55,280,,,-69.1,54,(47.8/1.1/62.5),201,"3141, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+7,3,,Paris Basin sediments,-51,285,,,-65.8,44.1,(47.8/1.1/62.5),201,"3029, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4.5,,"Andesites, Ukraine",-50,286.4,,,-65.3,41.7,(47.6/1.6/61.9),204.2,Yuan et al. (2011),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,8,,"Rhaetian sediments, Germany, France",-50,292,-58,272.9,-73.6,65.6,(47.3/2.2/61.1),208,"3141, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.1,,"Merci mudstone, Somerset",-50,308,-58.2,298.2,-61.7,60.7,(46.6/3.2/59.5),215,"3311, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4.6,,Sunnhordland dike,-50,305,,,-56.9,45.8,(46/3.9/58.2),221,"T, Walderhaug (1993)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,6,,Gipskeuper sediments,-49,311,,,-52.9,46.9,(46/3.9/58.2),226,"3141, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.9,,"Taimyr Sills, Siberia",-47.1,301.6,,,-57.8,39.2,(46/3.9/58.2),228,Walderhaug et al. (2005),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,3,,"Heming limestone, France",-54,321,,,-49.4,58.3,(46/3.9/58.2),234,"2411, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,12,,"Musschelkalk carbonates, Poland",-53,303,,,-59.1,50.4,(46/3.9/58.2),234,"3253, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,15,,"Bunter and Musschelkalk, Germany",-49,326,-56.5,318.6,-51.6,61.2,(46/3.9/58.2),239,"158, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,5,,"Upper Buntsandstein, France",-43,326,-47.8,322.2,-45.8,50.6,(46/3.9/58.2),243,"1028, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,3.8,,"Volpriehausen Formation, Germany",-49,348.2,-57,344.7,-39.2,71.2,(46/3.9/58.2),246,Szurlies (2004),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,7.8,,"Taimyr basalts, Siberia",-59.3,325.8,,,-49,67.4,(46/3.9/58.2),248,Walderhaug et al. (2005),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+7,3.3,,"German Trias, Lower Buntstein",-50.6,345.6,-58.8,341,-41.8,71.7,(46/3.9/58.2),249,"T, Szurlies et al. (2003)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,10,,"Taimyr Siberian Traps, Siberia",-59,330,,,-46.9,68.2,(46/3.9/58.2),250,2832,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,3.3,,"Siberian Traps, Siberia",-56.2,326,,,-47.7,63.2,(46/3.9/58.2),251,Gurevitch et al. (2004),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,13.9,,"Kotuy River Siberian Traps, Siberia",-52.7,328.4,,,-44.8,59.6,(46/3.9/58.2),251,Pavlov et al. (2007),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.1,,Siberian Traps NSP1 pole,-56.4,321.7,,,-49.9,62,(46/3.9/58.2),251,Pavlov et al. (2007),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,5,,"Sudetes sediments, Poland",-50,343,-59.3,336.5,-44.1,70.7,(46/3.9/58.2),251,"3161, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,5.3,,"Stolbovaya River Siberian Traps, Siberia",-53.3,330.2,,,-44.2,61.1,(46/3.9/58.2),251,Pavlov et al. (2007),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,5,,"Big Nirundaiver intrusion and sediments, Siberia",-54.3,323,,,-48.4,59.5,(46/3.9/58.2),251,Pavlov et al. (2007),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,2.7,,"Moyero River Siberian Traps, Siberia",-58.5,314.5,,,-54.3,63.2,(46/3.9/58.2),251,Gallet and Pavlov (1996); Pavlov et al. (2007),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,9.7,,"Siberian Traps Mean recalculated, Siberia",-52.8,334.4,,,-41.8,62.3,(46/3.9/58.2),251,"Kravchinsky et al. (2002), recalculated","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.7,,"Dome de Barrot red beds, France",-46,327,-50,324.7,-45.5,54.7,(46/3.9/58.2),255,"652, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4,,"Massif des Maures, France",-51,341,-55.4,338.1,-41.4,66.8,(46/3.9/58.2),255,"1408, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3.5,,"Late Permian sediments, Urals",-45.6,350.2,-54.9,338.2,-41,66.2,(46/3.9/58.2),260,Bazhenov et al. (2008),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5,,"Esterel sediments, France",-47,331,-50.6,327.7,-44.2,56.7,(46/3.9/58.2),261,"165, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4,,"Brive Basin sediments, France",-49,343,-52.6,341.7,-38,65.3,(46/3.9/58.2),261,"3144, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,0,,"Permian red beds, Lodeve, France",-53,331,-58.6,326.4,-48.5,66.5,(46/3.9/58.2),264,"1207, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1.5,,"Lodeve Basin, France",-49,334,-52.5,331.5,-43.1,60.7,(46/3.9/58.2),264,"1813, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,4.6,,"Upper Lodeve sandstone, France",-47,336,-49.3,334.7,-39.6,58.5,(46/3.9/58.2),264,"168, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4,,"Saxonian red sandstone, France",-51,324,-56.4,318.8,-51.4,61,(46/3.9/58.2),264,"2361, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.1,,"Esterel extrusives, France",-51.5,322,,,-47.7,55.3,(46/3.9/58.2),264,"165, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.1,,Cracow volcanics B,-50,344,,,-35.3,63.8,(46/3.9/58.2),269,Nawrocki et al. (2008),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.5,,"Lunner dikes, Norway",-51,343,,,-36.4,64.3,(46/3.9/58.2),271,Dominguez et al. (2011),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.9,,"Lunner dikes, Norway",-53,344,,,-37.1,66.7,(46/3.9/58.2),271,"3188, T (redated)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,8.6,,"Bohuslan dikes combined, Sweden",-51,345,,,-35.4,65.3,(46/3.9/58.2),275,"1155, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,11,,"Scania melaphyre dikes, Sweden",-54,352,,,-34.1,71.4,(46/3.9/58.2),279,"2222, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,7,,"Bohemian quartz porphyry, Germany",-37,341,,,-28.3,50.6,(46/3.9/58.2),280,"3145, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,14,,"Mauchline lavas, Scotland",-47,337,,,-37.1,57.3,(46/3.9/58.2),280,"3093, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,10,,"Bohemian Massif igneous, Germany",-42,346,,,-29,57.8,(46/3.9/58.2),280,"2356, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1,,"Oslo volcanics, Norway",-47,337,,,-37.1,57.3,(46/3.9/58.2),281,"915, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,13.4,,"Ringerike lavas, Norway",-44.6,337.4,,,-35.4,55.2,(46/3.9/58.2),281,1830,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,6.9,,"Sarna alkaline intrusion, Sweden",-38,346,,,-26.2,54.6,(46/3.9/58.2),281,"1735, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.5,,"Trachytes, Ukraine",-49.4,359.7,,,-27.4,71.4,(46/3.9/58.2),282.6,Yuan et al. (2011),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,6.7,,"Moissey volcanics, France",-41,352,,,-25.1,60.6,(46/3.9/58.2),285,"1205, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3.2,,"Intrasudetic Basin volcanics, Poland",-43,352,,,-26.5,62.1,(46/3.9/58.2),285,"3161, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.1,,"North Sudetic Basin sediments, Poland",-44,4,-48.6,4.1,-24.9,73.2,(46/3.9/58.2),285,"3161, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2,,"Krkonose Basin oil shales, Czech Republic",-40,346,-42.4,345.2,-29.6,57.7,(46/3.9/58.2),285,"2444, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,7.7,,Lower Lodeve sandstone,-44,350,-39.8,-9.4,-25,58.8,(46/3.9/58.2),285,"168, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.3,,"Mount Hunneberg Sill, Sweden",-38,346,,,-26.2,54.6,(46/3.9/58.2),285,"2211, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,8.1,,"North Sudetic Basin volcanics, Poland",-42,354,,,-24.8,62.5,(46/3.9/58.2),285,"3161, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2,,"Lodeve Basin, France",-42,349,-40.5,-9.8,-25.7,59,(46/3.9/58.2),285,"1813, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,17,,"Lodeve B Component, France",-49,342,-52.5,340.1,-38.7,64.5,(46/3.9/58.2),285,"2454, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,6.8,,"Intrasudetic basin sediments, Poland",-37,340,-38.5,339.4,-30.2,50.9,(46/3.9/58.2),285,"3161, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,7.9,,"Krakow volcanics, Poland",-43,345,,,-30.2,58.1,(46/3.9/58.2),285,"275, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4,,"Bohemian red beds, Czech Republic",-41,345,-44,343.5,-31.6,58.1,(46/3.9/58.2),285,"167, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,13.2,,"Lower Silesia volcanics, Poland",-40,352,,,-24.3,59.8,(46/3.9/58.2),285,"465, T (recalculated)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4,,"Exeter Lavas, UK",-50,330,,,-42.6,57.1,(46/3.9/58.2),286,"165, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,5.9,,"Black Forest volcanics, Germany",-49,356,,,-28.8,69.1,(46/3.9/58.2),286,"170, T (recalculated)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,10,,"Exeter Lavas, UK",-48,343,,,-34.5,61.4,(46/3.9/58.2),286,"411, T (recalculated)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,1,,"Black Forest rhyolites, Germany",-42,353,,,-25.3,61.9,(46/3.9/58.2),286,"2941, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,5.8,,"Thuringer Forest sediments, Germany",-41.5,340,-45.3,338.1,-35.5,56.3,(46/3.9/58.2),287,"1792, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,2.4,,"Stabben Sill, Norway",-32,354,,,-17.3,55.4,(46/3.9/58.2),291,"1540, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,15.9,,"Saar–Nahe volcanics, Germany",-41,349,,,-26.7,58.8,(46/3.9/58.2),291,"712, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,13,,"Nahe volcanics, Germany",-46,347,,,-31.2,61.8,(46/3.9/58.2),291,"940, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,13,,"Sudetic Mountain granitoids, Poland",-42,346,,,-29,57.8,(46/3.9/58.2),293,"2446, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.8,,"Great Whin Sill, UK",-44,339,,,-34.1,55.5,(46/3.9/58.2),294,"585, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3.5,,"Hadrian's Wall–Pennines Sill and Hett Dike (Whin Sill), UK",-32.9,347.1,,,-21.9,51.4,(46/3.9/58.2),294,"T, Liss et al. (2004)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.3,,"Holy Island Sill and Dyke (Whin Sill), UK",-35.4,346.8,,,-23.9,53.1,(46/3.9/58.2),294,"T, Liss et al. (2004)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4,,"Nideck–Donon volcanics, France",-47,348,,,-31.3,63.2,(46/3.9/58.2),294,"1010, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,19,,"Lower Nideck volcanics, France",-42,348,,,-27.9,59,(46/3.9/58.2),294,"174, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.8,,"Cracow volcanics A, Poland",-44,355,,,-25.7,64.6,(46/3.9/58.2),294,Nawrocki et al. (2008),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,8.1,,"Alnwick Sill, High Green and St. Oswalds Chapel Dyke (Whin Sill), UK",-47.1,337.1,,,-37.1,57.5,(46/3.9/58.2),294,"T, Liss et al. (2004)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6.5,,"Scania dolerites, Sweden",-38,348,,,-25.1,55.8,(46/3.9/58.2),294,"2222, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,11,,"Scania dolerite dikes, Sweden",-37,354,,,-21.1,58.9,(46/3.9/58.2),294,"2211, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,7.1,,"Thuringer Forest volcanics, Germany",-37.1,350,,,-23.3,56.4,(46/3.9/58.2),295,"1792, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,13.6,,"Silesia volcanics, Poland",-43,354,,,-25.5,63.3,(46/3.9/58.2),296,"465, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,7.1,,"Arendal diabase dykes, Norway",-42.5,339.6,,,-32.8,54.5,(46/3.9/58.2),297,"175, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,2.9,,"Ny–Hellesund sills, Norway",-39,341,,,-29.7,52.3,(46/3.9/58.2),297,"626, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,1.3,,"Peterhead dyke, Scotland",-41,342,,,-30.5,54.6,(46/3.9/58.2),297,"1535, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,3,,"Donets basin, Ukraine",-43,345,-49.9,337.3,-38.6,60.4,(46/3.9/58.2),297,Iosifidi et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.4,,"Svedlodarsk, Karamysh Formation, Donbas",-48.4,349.8,-56.1,341.2,-40.3,68.8,(46/3.9/58.2),299,Meijers et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4,,"Mount Billinger sill, Sweden",-31,354,,,-16.6,54.7,(46/3.9/58.2),299,"2211, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.2,,"Svetlodarsk, Kartamysh Formation, Donbas",-48.2,348.3,-55.9,339.4,-41,67.9,(46/3.9/58.2),299,Meijers et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4,,"Donets basin, Ukraine",-42,359,-45.7,356.5,-26.3,66.8,(46/3.9/58.2),301,Iosifidi et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2,,"Debaltsevo Donbas, Ukraine",-48.2,342.3,,,-35,61.3,(46/3.9/58.2),303,Meijers et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,3,,"Wackerfield dyke, England",-49,349,,,-32.2,65.4,(46/3.9/58.2),303,"180, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.2,,"Queensferry sill, Scotland",-38.3,354,,,-22,59.8,(46/3.9/58.2),305,"2447, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,9,,"Westphalian–Stephanian red beds, Czech Republic",-38,343,-40.3,341.5,-30.3,53.7,(46/3.9/58.2),305,"167, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,2.9,,"Tashkovska Donbas, Ukraine",-38.4,339.5,,,-30.1,50.9,(46/3.9/58.2),312,Meijers et al. (2010),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,7,,"Burntisland–Kinghorn lavas, Scotland",-14,332,,,,,,332,"2447, T96 (redated)","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,8.2,,"Derbyshire Lavas, England",-14.3,335.9,,,,,,335,"2440, T","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,11,,"Cheviot Hills igneous, England",4,323,,,,,,396,"190, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,7,,"Old Red Sandstone lavas and sediments, Scotland",-5,320,,,,,,410,"194, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+7,3,,"Strathmore lavas, Scotland",2,318,,,,,,410,"1536, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,7.3,,"Devonian sediments, Podolia, Ukraine",3.7,325.5,,,,,,411,2664,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,6,,"Lorne Plateau lavas, Scotland",2,321,,,,,,412,"193, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,2.5,,"Glenbervie ignimbrite, Scotland",-8,335,,,,,,415,"2565, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.3,,"Lintrathen ignimbrite, Scotland",-1,325,,,,,,415,"2565, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.9,,"Middle Silurian limestone, Dniester basin, Ukraine",-17,350,,,,,,419,Jelenska et al. (2005),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+7,9.1,,"Ringerike sandstone, Oslo, Norway",-19,344,-13.6,-16,,,,421,"1830, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,5.7,,"Foyers granite, Scotland",-27,346,,,,,,421,"1530, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,8,,Gotland Medby limestone,-23,351,,,,,,422,"1734, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,4.6,,"Yaruga limestone and dolomite, Dniester basin, Ukraine",-15,350,,,,,,424,Jelenska et al. (2005),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,7.9,,"Ratagen Complex, Scotland",-15,347,,,,,,425,"1200, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,6,,"Gotland Follingbo limestone, Sweden",-21,344,,,,,,425,"1734, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,2,,"Gotland Dacker limestone, Sweden",-19,349,,,,,,426,"1734, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5.1,,"Gotland Visby limestone, Sweden",-19,352,,,,,,427,"2363, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,5,,"Strontian granite, Scotland",-21,344,,,,,,430,"1530, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,5.2,,"Peterhead granite, Scotland",-21,358,,,,,,432,"1535, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,13.4,,Swedish Limestone I(N),3,35,,,,,,458,"2362, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4.8,,"Vestergotland (N3), Sweden",5,34,,,,,,459,"2362, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,4.9,,"Llandeilian limestone, St. Petersburg, Russia",12,41.9,,,,,,463,"Pavlov et al., 2008 EPSL","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4.4,,"Vestergotland (N1–N2 and R13), Sweden",14,49,,,,,,466,"2362, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,6.7,,"Dapingian–Darriwilian limestone, Estonia",11.3,39.1,,,,,,467,"Plado et al., 2010GJI 180","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,9.2,,"Komstad Limestone, Sweden",19,51,,,,,,471,Torsvik and Rehnström (2003),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,6.8,,"Gullhøgen (R1 + R2), Sweden",18.7,54,,,,,,472,"2959, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,7.1,,"Florian limestone, Estonia",25,50.9,,,,,,472,"Plado et al., 2010GJI 180","Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,9,,Swedish Limestones,30,55,,,,,,475,"2541, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,5.1,,Swedish Limestones I(R),18,46,,,,,,475,"2438, T96","Stable “Europe” (301, 302, 401 from 250 Myr)"
+6,4,,"Narva Ordovician limestone, Russia",18,55,,,,,,477,Khramov and Iosifidi (2009),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,3.6,,"St Petersburg Limestone, Russia",34.7,59.1,,,,,,478,3179,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+5,5,,"Narva Cambrian sandstone, Russia",22,87,34.2,79.8,,,,500,Khramov and Iosifidi (2009),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,6.8,,"Andrarum limestone, Sweden",52,111,,,,,,500.1,3425,"Stable “Europe” (301, 302, 401 from 250 Myr)"
+4,6.9,,"Tornetrask Formation/Dividal Group, Sweden",58.4,122.5,68.7,102.2,,,,535,Rehnström and Torsvik (2003),"Stable “Europe” (301, 302, 401 from 250 Myr)"
+3,10,,"El Loa Formation and associated ignimbrites, Chile",-85.4,303.8,,,-85.5,-37.4,(62.1/− 40.5/2.8),8.5,"3323, T","Amazonia (S America, 201)"
+3,10,,"Lipiyoc Formation, Puna, Argentina",-85.7,80.5,,,-84.6,75.6,(62.1/− 40.5/2.8),8.5,"3027, T","Amazonia (S America, 201)"
+5,11.4,,"Remedios, Sao Jose formations, Fernando de Noronha, Brazil",-84.5,316,,,-84.4,-26.3,(62/− 40.6/3.1),9.5,"1404, T","Amazonia (S America, 201)"
+5,5.9,,"Itatiaia and Passa Quatro Complexes, Brazil",-79.5,0,,,-69.6,46.8,(63.5/− 33.4/26.2),70.5,"3261, T","Amazonia (S America, 201)"
+6,2.6,,"Pocos de Caldas Alkaline Complex, Brazil",-83.2,320.1,,,-71.8,48.8,(61.6/− 34.3/33.8),84,"3261, T","Amazonia (S America, 201)"
+5,4.2,,"Sao Sabastiao Island Intrusions, Brazil",-79.4,331.9,,,-67.5,44.3,(61.2/− 34.3/34.4),85,"3261, T","Amazonia (S America, 201)"
+3,4.8,,"Intrusives, Cabo de Santo Agostinho, Brazil",-87.6,315.1,,,-69.5,65.2,(58.2/− 34.6/38.7),92,"1448, T","Amazonia (S America, 201)"
+4,3,,"Cabo Magmatic Province, Brazil",-87.9,335.9,,,-63.5,69.8,(54.9/− 34.8/44.9),102,Font et al. (2009),"Amazonia (S America, 201)"
+4,2.8,,"East Maranhao intrusives, Brazil",-83.6,81,,,-53.7,84.1,(51.8/− 35/52.4),118,"1431, T","Amazonia (S America, 201)"
+6,2.6,,"Florianopolis dyke swarm, Santa Catarina Island, Brazil",-89.1,3.3,,,-56.3,76.3,(51/− 34.3/53.6),123.5,"3190, T","Amazonia (S America, 201)"
+6,2,,"Ponta Grossa dykes, Brazil",-82.4,30.3,,,-48.1,77.9,(50.1/− 32.8/54.8),130,"2958, T","Amazonia (S America, 201)"
+6,2.4,,"Northeast Parana Magmatic Province Combined, Brazil",-83,71.4,,,-49.6,85.6,(50/− 32.5/55.1),132,3422,"Amazonia (S America, 201)"
+4,14.1,,"Dykes, Rio Grande do Norte, Brazil",-80.6,275,,,-59.3,63.3,(50/− 32.5/55.1),146,"1509, T","Amazonia (S America, 201)"
+3,9.3,,"West Maranhao Basalts, Brazil",-85.3,262.5,,,-58.5,72.7,(50/− 32.5/55.1),175,"1431, T","Amazonia (S America, 201)"
+5,3.8,,"Anari and Tapirapua Formations, Brazil",-65.5,250.3,,,-70.6,34.3,(50/− 32.5/55.1),196.6,"3316, T","Amazonia (S America, 201)"
+5,4,,"French Guyana dikes, Brazil",-81.2,235.1,,,-63.6,72.7,(50/− 32.5/55.1),198,3378,"Amazonia (S America, 201)"
+4,4.9,,"Bolivar dykes, Venezuela",-66.9,245.6,,,-71.9,40.3,(50/− 32.5/55.1),202.5,"150, T","Amazonia (S America, 201)"
+4,10,,"Dolerite dykes, Suriname",-82,320,,,-52.7,66.4,(50/− 32.5/55.1),232,"701, T","Amazonia (S America, 201)"
+6,6,,"Mitu Group red beds, Peru",-71.4,303.6,-60,294.1,-50.4,29.1,(50/− 32.5/55.1),248.5,"3524, T","Amazonia (S America, 201)"
+6,6.6,,Independencia Group,-80.7,7,-70.7,325.5,-45.5,52.9,(50/− 32.5/55.1),260,Rapalini et al. (2006),"Amazonia (S America, 201)"
+4,4.5,,"Copacabana Group sediments, Peru",-68.2,321.3,-56.1,305.2,-43.4,29.2,(50/− 32.5/55.1),280,Rakotosolofo et al. (2006),"Amazonia (S America, 201)"
+4,4.1,,"Santa Fe Group, Brazil",-65.7,330.9,-53.2,324,-33.7,36,(50/− 32.5/55.1),300,Brandt et al. (2009),"Amazonia (S America, 201)"
+3,11.2,,"Itarare Subgroup, Tubarao Group, Brazil",-57,357,-48.3,338.2,-24.3,41.3,(50/− 32.5/55.1),310,"798, T","Amazonia (S America, 201)"
+3,6,,"Rio de Los Molinos dykes 1, Cordoba, Argentina",-77,18,,,-66.8,52.3,(63.9/− 33.6/24.7),65.5,"102, T","Parana (S America, 202)"
+4,3.7,,"Serra Geral basalts, Brazil",-84.6,115.4,,,-57,86.1,(51.7/− 35/52.6),119,"765, T","Parana (S America, 202)"
+3,10.4,,"Vulcanitas Cerro Colorado Formation, Cordoba, Argentina",-81,14,,,-49.2,71.8,(51.5/− 34.9/53),121,"123, T","Parana (S America, 202)"
+5,5.9,,"El Salto–Almafuerte lavas, Cordoba, Argentina",-72,25,,,-39.1,73.6,(50.9/− 34.2/53.7),124,"1087, T","Parana (S America, 202)"
+3,11,,"Rio de Los Molinos dykes 2, Cordoba, Argentina",-79,8,,,-43,71.3,(47.5/− 33.3/56.1),139.5,"102, T","Parana (S America, 202)"
+3,18.1,,"Sierra de las Animas volcanic Complex, Uruguay",5.9,338.1,,,24.1,12.1,(47.6/− 33.3/56.2),510,3513,"Parana (S America, 202)"
+4,8,,"Pirgua basalts and red beds, Argentina",-85,222,,,-73,71.4,(56.9/− 34.7/40.9),95.5,"1131, T","Colorado (S America, 290)"
+5,8.7,,"Marifil Formation, North Patagonia, Argentina",-83,138,,,-53.3,90.1,(47.5/− 33.3/57.3),183,"3535, T","Colorado (S America, 290)"
+6,4.5,,Mendoza–Neuquen sediments and volcanics,-74,67,,,-38.1,89.4,(47.5/− 33.3/57.3),183,Iglesia-Llanos et al. (2006),"Colorado (S America, 290)"
+5,6.8,,Lepa-Osta Arena Formation,-75.5,129.4,,,-51,102,(47.5/− 33.3/57.3),187,3314,"Colorado (S America, 290)"
+6,4.5,,Mendoza sediments and volcanics,-51,223,,,-84.7,-21.3,(47.5/− 33.3/57.3),195,Iglesia-Llanos et al. (2006),"Colorado (S America, 290)"
+4,7.6,,Los Colorados Mendoza,-81.8,298.3,,,-52.4,65.2,(47.5/− 33.3/57.3),216,Vizán et al. (2004),"Colorado (S America, 290)"
+4,7,,"Amana Formation, Paganzo Group, Argentina",-83,317,-69.1,298.5,-49.7,45.5,(47.5/− 33.3/57.3),240,"1132, T","Colorado (S America, 290)"
+6,6.4,,"Puesto Viejo Formation Volcanics, Mendoza",-76,313.4,,,-48.1,57.7,(47.5/− 33.3/57.3),240,Domeier et al. (2011c),"Colorado (S America, 290)"
+6,4.9,,"Puesto Viejo Formation Sediments, Mendoza",-89.2,346.1,-75.1,293.5,-52.6,54.2,(47.5/− 33.3/57.3),240,Domeier et al. (2011c),"Colorado (S America, 290)"
+6,3.3,,"Sierra Chica, La Pampa",-80.1,348.6,,,-44.9,68.6,(47.5/− 33.3/57.3),263,Domeier et al. (2011b),"Colorado (S America, 290)"
+6,4.1,,"Upper Choiyoi Group, Mendoza",-75.7,326,,,-45.3,59.5,(47.5/− 33.3/57.3),264,Domeier et al. (2011c),"Colorado (S America, 290)"
+4,5.2,,"Tambillos, Uspallate Basin, Argentina",-80.6,308.3,,,-50.7,63.7,(47.5/− 33.3/57.3),267,2475,"Colorado (S America, 290)"
+4,2.8,,"La Colina Formation, Paganzo",-80.6,268.8,-66.7,285.5,-53.7,39.6,(47.5/− 33.3/57.3),283,Geuna and Escosteguy (2004),"Colorado (S America, 290)"
+3,2.5,,"Middle Paganzo II, Los Colorados Lower Beds, Argentina",-59.5,357.5,-55.2,332.3,-29.2,43.2,(47.5/− 33.3/57.3),283,"620, T","Colorado (S America, 290)"
+3,3.1,,"La Colina Formation, Los Colorados 1, Argentina",-74,313,-60.9,301.3,-45.1,35.2,(47.5/− 33.3/57.3),283,"166, T","Colorado (S America, 290)"
+4,4.9,,"Rio del Penon Formation sediments, Argentina",-76.8,293.7,-62.4,292.2,-49.6,34.4,(47.5/− 33.3/57.3),290,Geuna and Escosteguy (2004),"Colorado (S America, 290)"
+4,7,,"Punta del Agua Formation volcanics, Argentina",-73.1,272.4,,,-58.4,50.8,(47.5/− 33.3/57.3),290,Geuna and Escosteguy (2004),"Colorado (S America, 290)"
+3,5,,"La Colina basalt, Argentina",-66,348,,,-33.4,57.8,(47.5/− 33.3/57.3),300,"178, T","Colorado (S America, 290)"
+4,5.7,,"La Tabla Formation, Chile",-51,347,,,-20.8,48.8,(47.5/− 33.3/57.3),310,"1420, T","Colorado (S America, 290)"
+6,5,,"La Colina Formation, Argentina",-49,343,-45.4,323.6,-25.1,31.5,(47.5/− 33.3/57.3),310,"1144, T","Colorado (S America, 290)"
+6,9.6,,"Pular and Cas formations, Chile",-57,350,,,-25.2,53.6,(47.5/− 33.3/57.3),310,"1420, T","Colorado (S America, 290)"
+5,5.7,,Eocene volcanics Patagonia,-81,337.4,,,-74.4,33.2,(57.2/− 31.2/19.4),47,Somoza (2007),"Patagonia (S America, 291)"
+6,4.3,,"Patagonian Plateau basalts, Chile, Argentina",-78.7,358.4,,,-68.8,45.5,(63.4/− 33.4/26.5),71.5,"2374, T","Patagonia (S America, 291)"
+5,2,,"San Bernardo, Patagonia",-86.8,35.2,,,-66.7,71.5,(58.2/− 34.6/38.7),92,Somoza and Zaffarana (2008),"Patagonia (S America, 291)"
+4,3.8,,"Cerro Barcino sediments, Argentina",-87,159,-77.5,283.2,-60.9,51.4,(52/− 35/52.1),116,Geuna et al. (2000),"Patagonia (S America, 291)"
+5,5.5,,"Posades and Sierra Colorado ignimbrites, Argentina",-81,172,,,-57.9,90.4,(47.5/− 33.3/58),156.5,3535,"Patagonia (S America, 291)"
+4,4.9,,"Chon Aike Formation, combined result, Argentina",-85,197,,,-55.8,82,(47.5/− 33.3/59.2),167,"133, T","Patagonia (S America, 291)"
+5,5.2,,"Cretaceous Kimberlites 1, South Africa, Lesotho",-64.1,46.1,,,,,,90.5,"2293, T",Southern Africa (701)
+6,9.7,,"Cretaceous Kimberlites 2, South Africa",-47.6,89.9,,,,,,129,"2293, T",Southern Africa (701)
+5,3.1,,"Kaoko lavas, Namibia",-48.3,86.6,,,,,,132,"126, T",Southern Africa (701)
+4,13.3,,"Batoka basalts, northern Zimbabwe",-64,80.6,,,,,,180,"T, Jones et al. (2001)",Southern Africa (701)
+3,15.8,,"Hoachanas lavas, Namibia",-61.9,71.9,,,,,,183,"126, T",Southern Africa (701)
+5,3.2,,"Stormberg lavas (Lesotho basalts), South Africa",-71.6,93.5,,,,,,183,"3090, T",Southern Africa (701)
+4,11,,"Stormberg lavas, Sani Pass and Maseru, Lesotho",-70.5,88.7,,,,,,183,"984, T",Southern Africa (701)
+3,7,,"Karroo lavas, Central Africa, Zimbabwe, Mozambique",-57,84,,,,,,183,"635, T",Southern Africa (701)
+5,9.5,,"Karroo dolerites combined, South Africa, Zimbabwe",-65.4,75.1,,,,,,183,"317, T",Southern Africa (701)
+5,8.7,,"Marangudzi Ring Complex, Zimbabwe",-70.7,106.7,,,,,,186,"470, T",Southern Africa (701)
+3,4.6,,"Red sandstone Formation, Zambia",-68,50.5,-54.7,39.5,,,,221.5,"323, T",Southern Africa (701)
+3,6,,"Cassanje Series, Angola",-54,80,-49,62.6,,,,248.5,"1960, T",Southern Africa (701)
+5,7.6,,Karroo Basin,-50.9,86.3,-48,63.8,,,,251,De Kock and Kirschvink (2004),Southern Africa (701)
+6,5.6,,"K1 Dwyka Varves, Zimbabwe, Zambia, Tanzania",-26.5,26.5,-21.6,27.7,,,,281.5,"435, T",Southern Africa (701)
+6,12,,Dwyka Group combined,-25,67,-25.2,53.6,,,,315,"3489, T",Southern Africa (701)
+4,7,,"Bokkeveld Group, Cape Province, South Africa",10,15,-3.3,16,,,,398.5,"1416, TV",Southern Africa (701)
+5,18,,"Pakhuis, Cedarberg Formations, Cape Province, South Africa",25,343,17,-11,,,,446.5,"1416, TV",Southern Africa (701)
+6,9,,"Graafwater Formation, Cape Province, South Africa",28,14,13.9,13.8,,,,482.5,"1416, TV",Southern Africa (701)
+4,14,,"Intrusives, Beni Mellal, Morocco",-46,78,,,,,,120,"1859, T",Meseta (707)
+6,9,,"Beni Mellal volcanics, Morocco",-44,71,,,-42.6,73.6,(33.6/26/2.3),173.5,"148, TV",Meseta (707)
+4,11,,"Beni Mellal basalts, Morocco",-45,68,,,-43.7,70.7,(33.6/26/2.3),173.5,"1859, T",Meseta (707)
+5,6,,Argana Flows. Morocco,-69.2,55.5,,,-68.2,61,(33.6/26/2.3),201,Ruiz-Martinez et al. (2012),Meseta (707)
+3,7,,"Morrocan Intrusives, Morocco",-71,36,,,-70.5,42.7,(33.6/26/2.3),201,"148, T",Meseta (707)
+5,19,,"Central Atlantic Magmatic Province, Morocco",-73,61.3,,,-71.8,67.4,(33.6/26/2.3),201,"T, Knight et al. (2004)",Meseta (707)
+3,4.6,,"Taztot Trachyandesite, Morocco",-38.7,56.8,,,-37.7,59.4,(33.6/26/2.3),273,"723, T",Meseta (707)
+5,4.7,,"Chougrane red beds, Morocco",-32.2,64.1,-33.4,66,-32.1,68.3,(33.6/26/2.3),273,"723, T",Meseta (707)
+3,7.8,,"Djebel Tarhat red beds, Morocco",-24,63.8,-23.3,62.3,-22.1,64.3,(33.6/26/2.3),273,"1080, T",Meseta (707)
+3,20.9,,"Volcanics, Mechra ben Abou and Chougrane, Morocco",-36,58,,,-34.9,60.5,(33.6/26/2.3),280.5,"1859, T",Meseta (707)
+3,4.1,,"Afar Stratoid Series, Ethiopia",-87.5,359.3,,,-87.5,-2.3,(52.4/6.3/−.1),1,"3336, T",Somalia (709)
+3,5.7,,"Stratoid Basalts, Ethiopian Afar, Ethiopia",-87.2,37.1,,,-87.3,34.3,(50.2/6.5/−.2),2,"3559, T",Somalia (709)
+3,4.1,,"Gamarri section lavas, Afar Depression, Ethiopia",-79.7,350.2,,,-79.6,-11,(50.3/6.4/−.3),2.5,"3234, T",Somalia (709)
+5,3.8,,"Ngorora Formation, Kenya",-85.7,75.8,-84.4,65.5,-85.1,59.6,(50.4/6.4/− 1.3),11.5,"3111, T",Somalia (709)
+4,8.8,,"East African volcanics, Kenya and Tanzania",-86.5,6.6,,,-86.4,-7.5,(50.4/6.4/− 1.3),12,"774, T",Somalia (709)
+3,10,,"Volcanics, Kenya",-80.1,214.2,,,-79.7,-142.7,(50.3/6.4/− 1.3),13.5,"1517, T",Somalia (709)
+5,3.1,,"Turkana Lavas, Kenya",-84.6,343.3,,,-84.2,-25.5,(50.4/6.4/− 1.3),17,"774, T",Somalia (709)
+4,8.4,,"Southern Plateau volcanics, Ethiopia",-75.1,350.3,,,-74.8,-14.2,(50.3/6.4/− 1.5),34,"2764, T",Somalia (709)
+4,3,,"Lupata series volcanics, Mozambique",-61.8,79.5,,,-62.7,77.8,(50.3/6.4/− 1.5),111,"992, T",Somalia (709)
+3,9.3,,"Mlanje Massif syenite, Malawi",-60,82,,,-60.9,80.4,(50.3/6.4/− 1.5),124.5,"401, T",Somalia (709)
+3,5,,"K3 beds, Galula coalfield, Tanzania",-46,40,-33.3,36.9,-33.7,35.2,(50.3/6.4/− 1.5),257,"324, T",Somalia (709)
+5,1.9,,"Ntonya Ring Structure, Malawi",27.5,344.8,,,27.8,-15.9,(50.3/6.4/− 1.5),522,"404, TV",Somalia (709)
+4,5,,"Sinyai dolerite, Kenya",-28.4,319.1,,,-27.7,-42.4,(50.3/6.4/− 1.5),547,"3106, TV",Somalia (709)
+4,6.7,,"Famara Volcanics, Canary Islands",-87.5,358.2,,,,,,7.5,"2938, T",Northwest Africa (714)
+3,5.2,,"Basalt Series II, Canary Islands",-77.8,326.2,,,,,,8,"1493, T",Northwest Africa (714)
+4,4.1,,"Miocene volcanics, Canary Islands",-81.9,294.4,,,,,,13,"25, T",Northwest Africa (714)
+3,2.3,,"Massif de Cavallo, Algeria",-86.8,202.9,,,,,,13,"555, T",Northwest Africa (714)
+5,8,,"Basalt Series I, Canary Islands",-72,71.2,,,,,,81,"1493, T",Northwest Africa (714)
+6,6.3,,"Upper Jurassic sediments, Tunisia",-65.2,20.3,,,-65.3,25.8,(33.6/26/2.3),152.5,"1167, T",Northwest Africa (714)
+3,19.2,,"Intrusive rocks, Nigeria",-62.5,61.6,,,-61.3,65.8,(33.6/26/2.3),160,"1081, T",Northwest Africa (714)
+5,7.4,,"Diabase dykes and sills, Liberia",-68.5,62.4,,,-67.3,67.4,(33.6/26/2.3),185.5,"140, T",Northwest Africa (714)
+4,4.1,,"Hank volcanics, North Mauritania",-69.4,52,,,-68.5,57.7,(33.6/26/2.3),187,"3259, T",Northwest Africa (714)
+4,6.1,,"Hodh volcanics, South Mauritania",-71.4,60.2,,,-70.2,66,(33.6/26/2.3),187,"3260, T",Northwest Africa (714)
+4,6.2,,"Freetown Complex, Sierra Leone",-82.9,32.7,,,-82.4,48.7,(33.6/26/2.3),193,"3287, T",Northwest Africa (714)
+5,4.1,,"Ighrem and Foum Zguid dykes, Morocco",-73,64.7,,,-71.7,70.6,(33.6/26/2.3),200,Palencia-Ortas et al. (2011),Northwest Africa (714)
+6,2.6,,"Zarzaitine Formation, Algeria",-70.9,55.1,-76.2,78.9,-74.6,84.4,(33.6/26/2.3),206.5,"2932, T",Northwest Africa (714)
+5,6,,"Serie d'Abadla, Upper Unit, Morocco",-29,60,-26.8,56.5,-25.7,58.6,(33.6/26/2.3),273,"1459, T",Northwest Africa (714)
+5,3.6,,"Abadla Formation, Lower Unit, Algeria",-29.1,57.8,-26.3,54.2,-25.4,56.3,(33.6/26/2.3),275,"3275, T",Northwest Africa (714)
+5,2.8,,"Upper El Adeb Larache Formation, Algeria",-38.5,57.5,-33.7,52.4,-32.8,54.8,(33.6/26/2.3),286.5,"2540, T",Northwest Africa (714)
+4,4.1,,"Lower Tiguentourine Formation, Algeria",-33.8,61.4,-29,55.5,-28,57.7,(33.6/26/2.3),290,"2728, T",Northwest Africa (714)
+5,3.5,,"Lower El Adeb Larache Formation, Algeria",-28.7,55.8,-20.9,48.3,-20.1,50.3,(33.6/26/2.3),307,"2540, T",Northwest Africa (714)
+6,4.6,,"Illizi Basin sediments, Algeria",-28.3,58.9,-21.1,51.5,-20.2,53.4,(33.6/26/2.3),309,"3484, T",Northwest Africa (714)
+5,2.6,,"Reggane Basin, Harsi Bachir Formation, Algeria",-32.8,55.7,-27.8,49.9,-27,52.1,(33.6/26/2.3),310,Derder et al. (2009),Northwest Africa (714)
+4,4.5,,"Oubarakat and El-Adeb Larache Formations, Algeria",-28.2,55.5,-20.3,47.8,-19.6,49.8,(33.6/26/2.3),317,"3481, T",Northwest Africa (714)
+7,5.3,,"Reggane Basin, Algeria",-26.6,44.7,-17.5,36.2,-17.1,38.1,(33.6/26/2.3),320,"3402, T",Northwest Africa (714)
+5,5.9,,Tin Serrinine Basin intrusions,-18.8,31.2,,,-18.6,33.2,(33.6/26/2.3),348,Derder et al. (2006).,Northwest Africa (714)
+5,3.7,,"Griotte limestones, Algeria",-21,19.9,,,-21.2,21.9,(33.6/26/2.3),365,"2725, TV",Northwest Africa (714)
+6,3.7,,"Ben-Zireg limestones, Algeria",-19.2,19.8,,,-19.4,21.8,(33.6/26/2.3),365,"2521, TV",Northwest Africa (714)
+5,6.6,,"Air intrusives, Niger",-43.4,8.6,,,-43.9,11.7,(33.6/26/2.3),409,"1364, TV",Northwest Africa (714)
+5,2.5,,Main Ethiopian Rift basalts,-87.6,346.9,,,,,,1.5,Kidane et al. (2006),Northeast Africa (715)
+5,3.1,,"Hadar Basin, Ethiopia",-84.9,127.9,,,,,,3,Dupont-Nivet et al. (2008a),Northeast Africa (715)
+5,7.4,,South Holhol–Djibouti,-86.1,336.5,,,,,,4,Audin et al. (2004),Northeast Africa (715)
+5,11.2,,"Volcanics, Jebel Soda, Libya",-69,4,,,,,,11.5,"60, T",Northeast Africa (715)
+5,8.3,,"Volcanics, Jebel Soda, Libya",-78.4,16.1,,,,,,11.5,"50, T",Northeast Africa (715)
+5,2.6,,"Blue Clay Formation, Malta",-73,0.5,-83.2,341.7,,,,13.5,Abels et al. (2005),Northeast Africa (715)
+4,12.7,,"Ethiopian Flood basalts, Abbay and Kessen gorges, Ethiopia",-83,13.3,,,,,,26.5,"3496, T",Northeast Africa (715)
+6,6,,"Qatrani Formation, Egypt",-79.6,332.2,-79.5,258.6,,,,29,"3280, T",Northeast Africa (715)
+5,5.4,,"Ethiopian Traps, Ethiopia",-77.9,32.8,,,,,,30,"3209, T",Northeast Africa (715)
+5,6.4,,"Iron ores combined, Baharia Oasis, Egypt",-83.5,318.6,,,,,,37,"1500, T",Northeast Africa (715)
+6,4,,"Fayum Province, Egypt",-71,340,-76.5,308.4,,,,37.5,Lotfy and van der Voo (2007),Northeast Africa (715)
+6,4.2,,"Mokattam limestone, Egypt",-78.1,342.8,,,,,,42.5,"3280, T",Northeast Africa (715)
+6,6,,"Fayum Province, Egypt",-68,338,-73,314.8,,,,44.5,Lotfy and van der Voo (2007),Northeast Africa (715)
+3,5.8,,"Basalts, Wadi Abu Tereifiya, Egypt",-69.4,9.4,,,,,,44.5,"1141, T",Northeast Africa (715)
+5,8.5,,"Wadi Natash volcanics, Egypt",-69.3,78.1,,,-69.4,78.3,(39.9/− 61.4/−.2),93,"1500, T",Northeast Africa (715)
+3,18.1,,"Wadi Natash volcanics, Egypt",-75.7,48.3,,,-75.9,48.4,(40.1/− 61.4/−.2),94.5,"3260, T",Northeast Africa (715)
+3,11.5,,"Upper Triassic Sediments, Southern Tunisia",-54.9,43.3,-59.7,27,-60.2,26.5,(40.5/− 61.4/−.7),221.5,"3020, T",Northeast Africa (715)
+4,5.5,,"Al Azizia Formation, Kaf Bates, Libya",-54.5,45.8,,,-55,45.6,(40.5/− 61.4/−.7),231,"3408, T",Northeast Africa (715)
+5,3.8,,"Al Azizia Formation, Al Azizia, Libya",-59.3,34.1,,,-59.8,33.7,(40.5/− 61.4/−.7),231,"3408, T",Northeast Africa (715)
+4,6,,"Jebel Nehoud Ring Complex, Kordofan, Sudan",-40.8,71.3,,,-41.2,71.2,(40.4/− 61.4/−.7),280,"3504, T",Northeast Africa (715)
+3,10.8,,"Gilif Hills volcanics, Bayuda Desert, Sudan",25.9,11.6,,,25.4,11.2,(40.4/− 61.4/−.7),377,"2189, TV",Northeast Africa (715)
+6,9.2,,"Salala Ring Complex, Sudan",39.6,329.5,,,39.3,-30.6,(40.4/− 61.4/−.7),463,"2715, TV",Northeast Africa (715)
+4,5.4,,"Mount Pavagarh Traps, Gujrat, India",-39.2,105.6,,,-73.4,66.6,(18.8/22.6/− 39.2),64,"94, T",India–Pakistan (501)
+6,5.7,,Mahabeleshwar Plateau lavas,-39,100.8,,,-72,54.5,(19/21.9/− 40.2),65,Jay et al. (2009),India–Pakistan (501)
+4,6.7,,"Deccan Traps, Mahabaleshwar, India",-40,96,,,-70.6,42.6,(19.2/21.5/− 40.7),65.5,"107, T",India–Pakistan (501)
+6,5.9,,"Deccan Traps, Nagpur to Bombay traverse, India",-38.4,102.4,,,-72.7,57.9,(19.2/21.5/− 40.7),65.5,"393, T",India–Pakistan (501)
+3,3.8,,"Deccan Traps, Western Ghats, India",-34.5,103.6,,,-69.8,66.8,(19.2/21.5/− 40.7),65.5,"705, T",India–Pakistan (501)
+5,9.4,,"Deccan dyke swarms, western India",-37.2,100.5,,,-70.8,56.2,(19.2/21.5/− 40.7),65.5,"3094, T",India–Pakistan (501)
+3,3.8,,"Deccan Traps, Jalna, India",-39,99,,,-71.5,49.9,(19.2/21.5/− 40.7),65.5,"686, T",India–Pakistan (501)
+4,10.1,,"Central Kerala dykes, India",-34.6,94,,,-67.6,42.9,(20.2/19.3/− 43.8),69,"2754, T",India–Pakistan (501)
+4,12,,"Central Kerala gabbro dyke, India",-21.6,119.4,,,-74.9,73.7,(19.8/27.2/− 59.2),88,"2754, T",India–Pakistan (501)
+5,7.5,,"St. Mary Islands, western India",-14.2,117.8,,,-66.7,79.4,(20.2/27.6/− 58.5),91.2,"T, Torsvik et al. (2000)",India–Pakistan (501)
+3,4,,"Rajmahal Traps, West Bengal and Bihar, India",-3,118,,,-49.8,86.8,(23.4/31.3/− 53.8),116,"633, T",India–Pakistan (501)
+6,3.5,,"Rajmahal Traps, Bihar, India",-7,117,,,-53.3,83.2,(23.4/31.3/− 53.8),116,"678, T",India–Pakistan (501)
+6,8.3,,"Rajmahal Traps, West Bengal, India",-9.3,124.8,,,-57.6,95.2,(23.4/31.3/− 53.8),116,"2977, T",India–Pakistan (501)
+4,5.5,,"Rajamahal Traps, North Rajmahal Hills, India",-6.5,120.2,,,-53.8,88.5,(23.4/31.3/− 53.8),116,"T, Tarduno et al. (2001)",India–Pakistan (501)
+3,7,,"Sylhet Traps, Khasi Hills, India",-16,121,,,-63,84.4,(23.5/31.4/− 53.7),116.5,"985, T",India–Pakistan (501)
+5,2.4,,"Rajmahal Traps, Bihar, India",-9.4,116.6,,,-55.1,81.1,(23.5/31.5/− 53.6),117,"3095, T",India–Pakistan (501)
+5,4.6,,"Pachmarhi beds, Central India",-10.1,130.1,-2.4,118.5,-45.1,71.3,(29.8/42.1/− 60.5),206.5,"593, T",India–Pakistan (501)
+4,4.6,,"Mangli Beds, Central India",7.3,124.3,12.2,110.9,-28.7,73.5,(29.8/42.1/− 60.5),243,"593, T",India–Pakistan (501)
+5,6,,"Panchet clays, Karanpura Coalfields, India",7.5,120.5,13.4,109.1,-26.7,72.5,(29.8/42.1/− 60.5),248.5,"162, T",India–Pakistan (501)
+6,4.3,,"Wargal and Chidru Formations, Salt Range, Pakistan",2.2,125.8,,,-44.6,83.5,(29.8/42.1/− 60.5),250.5,"2467, T",India–Pakistan (501)
+3,1.8,,"Kamthi beds, Tadoba, India",4.1,102.8,10.2,94.5,-20.3,58.1,(29.8/42.1/− 60.5),250.5,"593, T",India–Pakistan (501)
+6,6.5,,"Kamthi red beds, Wardha Valley, Central India",4,129,9.5,115.1,-33.2,75.8,(29.8/42.1/− 60.5),250.5,"163, T",India–Pakistan (501)
+3,12.1,,"Alozai Formation, Baluchistan, Pakistan",18.1,111,,,-23.8,77,(29.8/42.1/− 60.5),289.5,"1236, T",India–Pakistan (501)
+5,4.1,,"Volcanics, Syria",-82.4,62.2,,,-82.9,57.8,(36.5/18/−.8),2.5,Abou Deeb et al. (1999); Abou Deeb and Tarling (2005),Arabia (503)
+5,3.4,,"Volcanics, Syria",-76,13.5,,,-75.2,-3.1,(36.5/18/− 4.5),19,Abou Deeb et al. (1999); Abou Deeb and Tarling (2005),Arabia (503)
+5,3.6,,"Afro-Arabian flood volcanic province, Yemen",-74.2,69.1,,,-77.7,46.7,(35.7/20.4/− 7.1),29,Riisager et al. (2005),Arabia (503)
+3,7.2,,"Abu Durba sediments, SW Sinai, Egypt",-25.6,64,-13.4,58.4,-17.7,51.5,(37.1/17.1/− 8.9),306.5,"2784, T",Arabia (503)
+5,4.4,,Antanimena and Mailaka volcanics,-74,43.7,,,,,,86.5,"3481, T",Madagascar (702)
+4,7.6,,"Volcanics, Massif d'Androy Andria",-64,63,,,,,,87,"547, T",Madagascar (702)
+4,4.9,,"Volcanics, Antanimena Andria",-66.1,49.7,,,,,,87,"708, T",Madagascar (702)
+4,4.4,,"Volcanics, Southeast Coast Andria",-65.8,35.6,,,,,,87,"708, T",Madagascar (702)
+4,8.9,,"Volcanics, Mangoky–Anilahy Andria",-73.7,73.1,,,,,,87,"708, T",Madagascar (702)
+5,4.3,,"Dolerites, east Madagascar",-65.5,38,,,,,,87,"3211, T",Madagascar (702)
+4,6.9,,"Volcanics, Mailaka Andria",-70.3,63.1,,,,,,87,"708, T",Madagascar (702)
+5,2.4,,"Volcanics, Southwest Madagascar",-76.8,68.2,,,,,,87,"3210, T",Madagascar (702)
+5,10.7,,d'Analava complex,-66.7,43.5,,,,,,91,"T, Meert and Tamrat (2006)",Madagascar (702)
+3,5.9,,Isalo Group,-74,97.1,-65.2,70.8,-50.9,59.5,(14.8/137.5/− 15.4),206.5,"147, T",Madagascar (702)
+3,7.6,,Combined Sakamena Rakotosolofo et al. 1999,-76.7,110.8,-68.4,73.5,-54.3,60.4,(14.8/137.5/− 15.4),250.5,"T, 3329",Madagascar (702)
+3,9.5,,Combined Sakoa Rakotosolofo et al. 1999,-51.3,72.6,-42.5,60.2,-27.8,54.4,(14.8/137.5/− 15.4),305,"3329, T",Madagascar (702)
+5,11,,Carion Granite,-6.8,1,,,3.1,-2.6,(14.8/137.5/− 15.4),509,"3405, TV",Madagascar (702)
+4,14,,Stratoid Granites,-6.8,352.7,,,1.6,-10.7,(14.8/137.5/− 15.4),521,Meert et al. (2003),Madagascar (702)
+5,1.8,,"Tarakohe Quarry, New Zealand (Australian Plate)",-78.4,103.1,-70.3,148.6,-80.2,155.3,(12/48.8/− 10.4),17.5,Turner et al. (2007),Australia (801)
+5,3.6,,"Barrington Volcano,New South Wales",-70.5,125.6,,,-80.2,19,(14.1/57/− 24.4),53,592,Australia (801)
+5,1.8,,Otway Group sediments,-48.9,148.7,-45.1,146.8,-56.4,93.9,(17.2/103.2/− 36),112,1201,Australia (801)
+5,3.7,,"Prospect dolerite, Sydney Basin",-53,179.6,,,-59.2,64.5,(19.5/117.8/− 56.2),168,1177,Australia (801)
+4,6,,"Garrawilla volcanics and Nombi extrusives, New South Wales",-46.1,175.2,,,-57.3,78.3,(19.5/117.8/− 56.2),180,780,Australia (801)
+5,2.9,,Tasmanian dolerite,-50.7,174.5,,,-56.6,69.9,(19.5/117.8/− 56.2),183,1113,Australia (801)
+6,5.1,,Newcastle range volcanics,-63.8,124.5,,,-31.5,48.8,(19.5/117.8/− 56.2),321,3561,Australia (801)
+6,6,,"Brewer Conglomerate, Northern Territory",-47.1,41,-49.3,54.7,2.2,28.5,(19.5/117.8/− 56.2),367,"2726, TV",Australia (801)
+6,7.8,,"Reef Complex, Canning Basin",-49.1,38,,,3.6,17.7,(19.5/117.8/− 56.2),370,"1345, TV",Australia (801)
+6,15.2,,"Canning Basin Reef Complexes, Western Australia",-62,23.2,,,-10,10.7,(19.5/117.8/− 56.2),370,"2942, TV",Australia (801)
+5,5,,"Canning basin, Upper Frasnian",-63,38.6,,,-10.3,18,(19.5/117.8/− 56.2),376,"E. Tohver, pers.comm. (2012)",Australia (801)
+5,3,,"Tumblagooda Sandstone, Carnarvon Basin",-26.7,33.7,-30.4,46,21.9,25.2,(19.5/117.8/− 56.2),465,"206, TV",Australia (801)
+4,13,,"Jinduckin Formation, Northern Territory",-13,25,,,38.3,1.5,(19.5/117.8/− 56.2),493,"202, TV",Australia (801)
+6,7.4,,"Chatswood limestone and Ninmaroo Formation, Western Queensland",3.1,54.1,,,52.7,45,(19.5/117.8/− 56.2),495,"3082, TV",Australia (801)
+3,3.8,,"Black Hill Norite, South Australia",-37.5,34.4,,,15.2,14.8,(19.5/117.8/− 56.2),500,"2971, TV",Australia (801)
+6,10,,"Hugh River shale, Jay Creek limestone",-19.3,39.1,,,33.4,19,(19.5/117.8/− 56.2),510,Mitchell et al. (2010),Australia (801)
+3,10.1,,"Lake Frome Group Combined, Flinders Ranges, South Australia",-31.4,26.9,-31.3,26.7,20.6,7.4,(19.5/117.8/− 56.2),510,"1769, TV",Australia (801)
+3,10.4,,"Giles Creek dolomite, Ross River, Amadeus Basin",-38.3,24.5,,,13.4,6.9,(19.5/117.8/− 56.2),510,"1769, TV",Australia (801)
+3,12.3,,"Cambrian sediments, Kangaroo Island, South Australia",-33.8,15.1,-32.8,13.9,16.4,-3.2,(19.5/117.8/− 56.2),515,"1769, TV",Australia (801)
+7,6.7,,"Todd River dolomite, Northern Territory",-43.2,339.9,,,-6.2,-20.8,(19.5/117.8/− 56.2),522,"1070, TV",Australia (801)
+6,14.4,,"Billy Creek Formation, Aroona Creek and Wirrealpa limestone, Flinders Ranges",-37.4,20.1,,,13.5,3.2,(19.5/117.8/− 56.2),523,"1769, TV",Australia (801)
+6,7.3,,"Pertaoorta Group, Areyonga Gorge, Amadeus Basin",-32.7,11.5,-28.7,5.7,17.4,-11.7,(19.5/117.8/− 56.2),525,"1769, TV",Australia (801)
+6,4.1,,"Upper Arumbera sandstone, Northern Territory",-46.6,337.3,-37.4,331.7,-6.5,-29.4,(19.5/117.8/− 56.2),534,"1070, TV",Australia (801)
+5,11.4,,"Hawker Group, Flinders Ranges, South Australia",-21.3,14.9,,,27.5,-6.6,(19.5/117.8/− 56.2),535,"1769, TV",Australia (801)
+6,16,,"Brachina Formation, Adelaide Geosyncline, South Australia",-33,328,-20.2,326.5,1.6,-45.3,(19.5/117.8/− 56.2),550,"1648, TV",Australia (801)
+5,4,,McMurdo Sound volcanics,-85.5,143.6,,,-85.5,141.7,(8.3/− 49.4/.2),1,Tauxe et al. (2004),East Antarctica (802)
+5,6.3,,McMurdo volcanics combined,-87.3,137.3,,,-87.3,130.8,(8.2/− 49.4/.3),2,"1319, T",East Antarctica (802)
+5,7,,James Ross Island volcanics,-86.4,28.5,,,-85.7,30.7,(8.2/− 49.4/.8),5,Kristjánsson et al. (2005),East Antarctica (802)
+5,2.3,,Kerguelen islands (Antarctic Plate),-85.5,9.3,,,-81.7,25.3,(11.6/− 48.2/4.2),27,Camps et al. (2007),East Antarctica (802)
+5,4.4,,"Lavas and dykes, Vestfjella",-51.4,203.4,,,-55,98.6,(10.5/148.8/− 58.2),164,"1548, T",East Antarctica (802)
+4,3.4,,"Ferrar dolerites, Northern Prince Albert Mountains",-47.8,225.5,,,-69.3,91.3,(10.5/148.8/− 58.2),183,"2721, T",East Antarctica (802)
+3,3.3,,"Ferrar dolerite sill, Mount Cerberus",-57.8,224.3,,,-61.5,75.7,(10.5/148.8/− 58.2),183,"1838, T",East Antarctica (802)
+5,2.4,,"Ferrar dolerites, Wright Valley",-45.3,208,,,-59.4,108.3,(10.5/148.8/− 58.2),183,"1599, T",East Antarctica (802)
+5,10.2,,"Ferrar dolerite, McMurdo Sound",-50.5,211.4,,,-60,97.1,(10.5/148.8/− 58.2),183,"1657, T",East Antarctica (802)
+4,6.9,,"Storm Peak Lavas, Queen Alexandra Range",-44.1,231.5,,,-74.9,91.3,(10.5/148.8/− 58.2),193,"808, T",East Antarctica (802)
+5,3.8,,Vestfjella lavas and dykes,-41.8,226.5,,,-73.2,105.8,(10.5/148.8/− 58.2),195,"1154, T",East Antarctica (802)
+5,5.2,,"Vanda lamprophyre and porphyry, Wright Valley",-2.5,23.8,,,37.8,-2.5,(10.5/148.8/− 58.2),471.5,"1599, TV",East Antarctica (802)
+5,7.6,,South Victoria Land intrusives,-3.5,22.7,,,36.3,-2.7,(10.5/148.8/− 58.2),475,"2966, TV",East Antarctica (802)
+5,7.2,,"Teall Nunatak, Victoria Land",-11,21,,,29.6,2,(10.5/148.8/− 58.2),479,"3187, TV",East Antarctica (802)
+4,10.9,,"Lamprophyre dykes, Taylor Valley",-9.3,26.7,,,34.5,5.7,(10.5/148.8/− 58.2),484,"1079, TV",East Antarctica (802)
+4,12,,Killer Ridge/Mount Lok,-7,21.4,,,32.8,-0.9,(10.5/148.8/− 58.2),499,"3298, TV",East Antarctica (802)
+4,8.1,,"Granitic rocks, Wright Valley",-5.4,18.5,,,32,-4.6,(10.5/148.8/− 58.2),500,"1599, TV",East Antarctica (802)
+3,4.5,,"Sør Rondane intrusives, Queen Maud Land",-28.5,9.5,,,9.5,6.1,(10.5/148.8/− 58.2),515,"546, TV",East Antarctica (802)
