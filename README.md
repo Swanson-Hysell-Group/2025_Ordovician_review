@@ -4,7 +4,7 @@ This repository contains data and code associated with an invited review manuscr
 
 Bergmann, K.D.<sup>1</sup><sup>\*</sup>, Macdonald, F.A.<sup>2</sup><sup>\*</sup>, and Swanson-Hysell, N.L.<sup>3</sup><sup>\*</sup> (2025) The causes and consequences of Ordovician cooling, *Annual Review of Earth and Planetary Sciences*.
 
-<sup>1</sup> Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, United States; email: [bergmann@mit.edu](mailto:bergmann@mit.edu); <sup>2</sup> Department of Earth and Planetary Science, University of California, Berkeley, CA 94720, USA; email: [francism@berkeley.edu](mailto:francism@berkeley.edu); <sup>3</sup> Department of Earth and Environmental Sciences, University of Minnesota, Minneapolis, MN 55455, USA; email: [nicks-h@umn.edu](mailto:nicks-h@umn.edu)
+<sup>1</sup> Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, United States; <sup>2</sup> Department of Earth and Planetary Science, University of California, Berkeley, CA 94720, USA; <sup>3</sup> Department of Earth and Environmental Sciences, University of Minnesota, Minneapolis, MN 55455, USA
 
 <sup>\*</sup> All authors contributed equally to this work.
 
@@ -21,6 +21,8 @@ This notebook conducts the data analysis and generates the visualizations associ
 and this figure:
 
 <img width="444" alt="Screenshot 2024-07-03 at 2 56 19 PM" src="https://github.com/Swanson-Hysell-Group/2025_Ordovician_review/assets/4332322/3cce6d61-fc7e-480d-8388-adb1865f8435">
+
+### [paleogeography_arcs_suture_temperatures.ipynb](code/paleogeography_arcs_suture_temperatures.ipynb)
 
 ### [metabolic_index.ipynb](code/metabolic_index.ipynb)
 
