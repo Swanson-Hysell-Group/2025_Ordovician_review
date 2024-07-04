@@ -1064,6 +1064,8 @@
 302 1080.0   77.0273 -130.9802  -42.9243  101 ! PSHM modification - Laurentia-Baltica fit inspired by Cawood et al. (2010) that satisfies Egersund dike pole at 615 Ma
 302 1140.0   47.5    1.5   49.0  101 ! PSHM modification - Laurentia-Baltica fit of Evans (2013)
 302 1750.0   47.5    1.5   49.0  101 ! PSHM modification - Baltica - Laurentia-Baltica fit of Evans (2013)
+3029 0.0   68.99  154.75  -23.05  101 !CEED6 Torsvik and Cocks 2016
+3029 500.0   68.99  154.75  -23.05  101 !118 Ma Baltica to Laurentia of CEED6 Torsvik and Cocks 2016 use to reconstruct Scandanavian Caledonides ophiolites
 303  0.0   90.0    0.0    0.0  302 !CEED6 Torsvik and Cocks 2016
 303 430.0   90.0    0.0    0.0  302 !CEED6 Torsvik and Cocks 2016
 303 430.0   78.64  161.9  -32.0  101 !CEED6 Torsvik and Cocks 2016
