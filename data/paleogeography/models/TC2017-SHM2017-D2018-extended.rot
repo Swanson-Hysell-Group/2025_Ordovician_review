@@ -1622,14 +1622,9 @@
 459 370.0   90.0    0.0    0.0  402 !CEED6 Torsvik and Cocks 2016
 459 380.0   62.7 -175.9 -148.3  402 !CEED6 Torsvik and Cocks 2016
 459 380.0   57.29   38.2 -118.99  001 !CEED6 Torsvik and Cocks 2016
-459 390.0   54.99   30.5 -120.33  001 !CEED6 Torsvik and Cocks 2016
-459 430.0   74.35  -40.3 -112.02  001 !CEED6 Torsvik and Cocks 2016
-459 448.0   52.89  -35.39 -102.86  001 !CEED6 Torsvik and Cocks 2016
-459 452.0   48.85  -97.5 -106.04  001 !CEED6 Torsvik and Cocks 2016
-459 458.0   48.33  -97.12 -106.48  001 !CEED6 Torsvik and Cocks 2016
-459 461.0   55.37  -58.9 -115.47  001 !CEED6 Torsvik and Cocks 2016
-459 475.0   44.31  -73.05 -119.25  001 !CEED6 Torsvik and Cocks 2016
-459 780.0   52.7833  -76.8347 -193.7509  001 ! (placeholder position)
+459 390.0   90.0    0.0    0.0  480 !Fix to Tarim in order to plot suture even without good knowledge of position
+459 490.0   90.0    0.0    0.0  480 !Fix to Tarim in order to plot suture even without good knowledge of position
+459 780.0   52.7833  -76.8347 -193.7509  302 ! (placeholder position)
 459 1000.0   47.6244  -93.4252 -218.8033  001 !SHM (North Tien Shan Kaza) start date pushed back to 1000 Ma (placeholder position)
 460  0.0   90.0    0.0    0.0  402 !CEED6 Torsvik and Cocks 2016
 460 410.0   90.0    0.0    0.0  402 !CEED6 Torsvik and Cocks 2016
