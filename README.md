@@ -1,6 +1,6 @@
 # The causes and consequences of Ordovician cooling
 
-This repository contains data and code associated with an invited review manuscript that has been submitted to *Annual Review of Earth and Planetary Sciences* for volume 53 to be published in 2025.
+This repository contains data and code associated with an invited review manuscript being submitted to *Annual Review of Earth and Planetary Sciences* for volume 53 to be published in 2025.
 
 Bergmann, K.D.<sup>1</sup><sup>\*</sup>, Macdonald, F.A.<sup>2</sup><sup>\*</sup>, and Swanson-Hysell, N.L.<sup>3</sup><sup>\*</sup> (2025) The causes and consequences of Ordovician cooling, *Annual Review of Earth and Planetary Sciences*.
 
@@ -10,7 +10,7 @@ Bergmann, K.D.<sup>1</sup><sup>\*</sup>, Macdonald, F.A.<sup>2</sup><sup>\*</sup
 
 ## Contents
 
-This repository contains Jupyter notebooks that were used to conduct data analysis and develop data visualizations. These notebooks are linked to below. Each notebook used a Python 3.10 kernel with packages as listed in the [pygplates_py310.yml](code/pygplates_py310.yml) file. The code in the paleogeography notebooks also relies on pygplates which is imported from a local user specified path (`pygplates_0.36.0_py39_Darwin-x86_64` was used).
+This repository contains Jupyter notebooks that were used to conduct data analysis and develop data visualizations. These notebooks are linked to below. Each notebook used a Python 3.10 kernel with packages as listed in the [pygplates_py310.yml](code/pygplates_py310.yml) file. The code in the paleogeography notebooks also relies on [pygplates](https://www.gplates.org/docs/pygplates/) which is imported from a local user specified path (`pygplates_0.36.0_py39_Darwin-x86_64` was used for the execution of the notebooks whose output is preserved here).
 
 ### [paleogeography_Gondwana.ipynb](code/paleogeography_Gondwana.ipynb)
 
@@ -23,6 +23,11 @@ and this figure:
 <img width="444" alt="Screenshot 2024-07-03 at 2 56 19 PM" src="https://github.com/Swanson-Hysell-Group/2025_Ordovician_review/assets/4332322/3cce6d61-fc7e-480d-8388-adb1865f8435">
 
 ### [paleogeography_arcs_suture_temperatures.ipynb](code/paleogeography_arcs_suture_temperatures.ipynb)
+
+This notebook conducts the data analysis and generates the visualizations associated with this figure:
+
+<img width="444" alt="Screenshot 2024-07-06 at 9 18 55 AM" src="https://github.com/Swanson-Hysell-Group/2025_Ordovician_review/assets/4332322/2fb2e3bf-78fa-496d-af01-b3142239c72a">
+
 
 ### [metabolic_index.ipynb](code/metabolic_index.ipynb)
 
