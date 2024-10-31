@@ -26,7 +26,11 @@ and this figure:
 
 This notebook conducts the data analysis and generates the visualizations associated with this figure:
 
-<img width="444" alt="Screenshot 2024-07-06 at 9 18 55 AM" src="https://github.com/Swanson-Hysell-Group/2025_Ordovician_review/assets/4332322/2fb2e3bf-78fa-496d-af01-b3142239c72a">
+<img width="444" alt="Screenshot 2024-10-31 at 10 17 31 AM" src="https://github.com/user-attachments/assets/9c56bc3c-a989-4dfa-b674-8ffd2242152a">
+
+and this figure:
+
+<img width="444" alt="Screenshot 2024-10-31 at 10 16 11 AM" src="https://github.com/user-attachments/assets/db848c76-542c-413a-a2df-45b6538782c6">
 
 
 ### [metabolic_index.ipynb](code/metabolic_index.ipynb)
