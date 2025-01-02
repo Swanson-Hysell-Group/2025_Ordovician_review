@@ -1,12 +1,16 @@
 # The causes and consequences of Ordovician cooling
 
-This repository contains data and code associated with an invited review manuscript being submitted to *Annual Review of Earth and Planetary Sciences* for volume 53 to be published in 2025.
+This repository contains data and code associated with an invited review manuscript to volume 53 of the *Annual Review of Earth and Planetary Sciences*.
 
 Bergmann, K.D.<sup>1</sup><sup>\*</sup>, Macdonald, F.A.<sup>2</sup><sup>\*</sup>, and Swanson-Hysell, N.L.<sup>3</sup><sup>\*</sup> (2025) The causes and consequences of Ordovician cooling, *Annual Review of Earth and Planetary Sciences*.
 
 <sup>1</sup> Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, United States; <sup>2</sup> Department of Earth and Planetary Science, University of California, Berkeley, CA 94720, USA; <sup>3</sup> Department of Earth and Environmental Sciences, University of Minnesota, Minneapolis, MN 55455, USA
 
 <sup>\*</sup> All authors contributed equally to this work.
+
+This work should be cited as:
+Bergmann, K.D., Macdonald, F.A., and Swanson-Hysell, N.L. (2025) The causes and consequences of Ordovician cooling, Annual Review of Earth and
+Planetary Science. doi:10.1146/annurev-earth-040523-114630
 
 ## Contents
 
